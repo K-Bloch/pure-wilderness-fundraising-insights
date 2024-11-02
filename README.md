@@ -1,14 +1,10 @@
 # Pure Wilderness Fundraising Efforts Analysis
 
 ## Project Screenshots
-<details>
-  <summary>📊 Expand</summary>
 
 <br>![01_acq](https://github.com/user-attachments/assets/4c0da2ca-7c86-4bb2-b3a3-6c2682bd4ee3)
 ![02_det](https://github.com/user-attachments/assets/764cd988-5286-47f9-9c51-089be06c902c)
 ![image](https://github.com/user-attachments/assets/9bd75280-5989-4a57-ac41-eeb07caaaf1c)
-
-</details>
 
 ## Data Sources & Tools
 - **Data**: Generated using my custom Python script (code in repository)
