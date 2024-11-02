@@ -1,5 +1,15 @@
 # Pure Wilderness Fundraising Efforts Analysis
 
+## Project Screenshots
+<details>
+  <summary>📊 Expand</summary>
+
+<br>![01_acq](https://github.com/user-attachments/assets/4c0da2ca-7c86-4bb2-b3a3-6c2682bd4ee3)
+![02_det](https://github.com/user-attachments/assets/764cd988-5286-47f9-9c51-089be06c902c)
+![image](https://github.com/user-attachments/assets/9bd75280-5989-4a57-ac41-eeb07caaaf1c)
+
+</details>
+
 ## Data Sources & Tools
 - **Data**: Generated using my custom Python script (code in repository)
 - **SQL tool**: MySQL Workbench 8.0 CE
@@ -15,7 +25,7 @@ Pure Wilderness is a wildlife conservation non-profit founded in 2020. Initially
 All individuals or entities that donated to the organization are referred to as 'donors'.
 
 <details>
-  <summary>Data Dictionary</summary>
+  <summary>📖 Data Dictionary</summary><br>
 
 - **donor_id**: Unique ID  
 - **donor_type**: Individual or Organization  
@@ -36,7 +46,7 @@ All individuals or entities that donated to the organization are referred to as 
    - Developed additional metrics to make building visuals easier.
 
 <details>
-  <summary>SQL Steps</summary>
+  <summary>📈 SQL Steps</summary>
 
 #### Input Data (01_input.sql)
 I created a **donors** table and inserted data into that table. Due to MySQL Workbench quirks, I had to import all fields except donor_id as varchars.
@@ -56,10 +66,12 @@ I created a new table, **acquisition**, to show counts and percentage changes of
 #### Yearly Difference Calculation (06_avg_perc_diff.sql)
 Finally, I calculated the year-by-year difference in new donor counts, again to compare with Power BI metrics later.
 
+![06_sql](https://github.com/user-attachments/assets/f2feeac6-9835-4386-ba63-a74153490a83)
+
 </details>
 
 <details>
-  <summary>Power BI Steps</summary>    
+  <summary>📈 Power BI Steps</summary>    
 
   <br>I imported the data into Power BI and created additional metrics, tables, and visuals. Below are some selected examples of important calculations; not all metrics or code pieces are described.
 
@@ -99,6 +111,9 @@ DonorLifespanInYears = IF(DonorSummary[Donor_Status] = "Active",
 ```plaintext
 DonationFrequencyInDays = ROUND(DATEDIFF(DonorSummary[First_Donation], DonorSummary[Last_Donation], DAY) / DonorSummary[Donation_Count], 0)
 ```
+
+![donorsummary_powerbi](https://github.com/user-attachments/assets/c5fe4268-76d5-4ca2-ae13-3589af7c9d58)
+
 </details>
 
 ### Main Steps (Analytical)   
@@ -165,6 +180,6 @@ The average donor age is high (**52**), with low engagement at six donations or 
 
 ## Next Steps
 
-- Provide the costs associated with each acquisition channel to calculate the Channel ROI.
+- Provide the costs associated with each acquisition channel to calculate ROI by channel.
 - Share the numbers of campaigns and their corresponding dates for further analysis, allowing for a more comprehensive understanding of their impact.
 
