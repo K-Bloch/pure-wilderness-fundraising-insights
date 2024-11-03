@@ -61,7 +61,7 @@ I calculated a donor retention rate to compare with Power BI calculations to ver
 #### Acquisition Data (05_acquisition.sql)
 I created a new table, **acquisition**, to show counts and percentage changes of donors, broken down by channels.
 
-#### Yearly Difference Calculation (06_avg_perc_diff.sql)
+#### Yearly Difference Calculation (06_yty_change.sql)
 Finally, I calculated the year-by-year difference in new donor counts, again to compare with Power BI metrics later.
 
 ![06_sql](https://github.com/user-attachments/assets/f2feeac6-9835-4386-ba63-a74153490a83)
