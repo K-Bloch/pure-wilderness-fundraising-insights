@@ -8,7 +8,7 @@
 
 ## Data Sources & Tools
 - **Data**:
-    - donor_data was generated using my custom Python script (code in repository)
+    - donor_data was generated using my [custom Python script.](https://github.com/K-Bloch/data-generator)
     - list of cities was extracted from this stat website: [polskawliczbach.pl](https://www.polskawliczbach.pl/Miasta)
 - **SQL tool**: MySQL Workbench 8.0 CE
 - **Analytics and Visualization tool**: Power BI
