@@ -1,0 +1,1014 @@
+﻿city_id;area;city;county (powiat);population;voivodeship
+1;56,3 km²;Legnica;powiat Legnica;92568;dolnośląskie
+2;17,1 km²;Syców;powiat oleśnicki;9928;dolnośląskie
+3;37,4 km²;Kowary;powiat jeleniogórski;9806;dolnośląskie
+4;14,9 km²;Środa Śląska;powiat średzki;9548;dolnośląskie
+5;33,9 km²;Kudowa-Zdrój;powiat kłodzki;9324;dolnośląskie
+6;10,7 km²;Bystrzyca Kłodzka;powiat kłodzki;9045;dolnośląskie
+7;14,4 km²;Oborniki Śląskie;powiat trzebnicki;8992;dolnośląskie
+8;16,6 km²;Lwówek Śląski;powiat lwówecki;8180;dolnośląskie
+9;109,3 km²;Jelenia Góra;powiat Jelenia Góra;75429;dolnośląskie
+10;15,1 km²;Ziębice;powiat ząbkowicki;7995;dolnośląskie
+11;9 km²;Chocianów;powiat polkowicki;7404;dolnośląskie
+12;8,6 km²;Kąty Wrocławskie;powiat wrocławski;7171;dolnośląskie
+13;40,8 km²;Lubin;powiat lubiński;68016;dolnośląskie
+14;292,8 km²;Wrocław;powiat Wrocław;674132;dolnośląskie
+15;35,1 km²;Głogów;powiat głogowski;62533;dolnośląskie
+16;32,2 km²;Sobótka;powiat wrocławski;6997;dolnośląskie
+17;17,7 km²;Pieszyce;powiat dzierżoniowski;6782;dolnośląskie
+18;7,6 km²;Żarów;powiat świdnicki;6474;dolnośląskie
+19;8,3 km²;Twardogóra;powiat oleśnicki;6207;dolnośląskie
+20;9,5 km²;Żmigród;powiat trzebnicki;6205;dolnośląskie
+21;6,6 km²;Gryfów Śląski;powiat lwówecki;6148;dolnośląskie
+22;21,8 km²;Świdnica;powiat świdnicki;53157;dolnośląskie
+23;17,2 km²;Polanica-Zdrój;powiat kłodzki;5994;dolnośląskie
+24;16,2 km²;Głuszyca;powiat wałbrzyski;5930;dolnośląskie
+25;20,9 km²;Piława Górna;powiat dzierżoniowski;5929;dolnośląskie
+26;75,4 km²;Szklarska Poręba;powiat jeleniogórski;5832;dolnośląskie
+27;43,2 km²;Piechowice;powiat jeleniogórski;5774;dolnośląskie
+28;6,2 km²;Przemków;powiat polkowicki;5601;dolnośląskie
+29;22,4 km²;Lubawka;powiat kamiennogórski;5568;dolnośląskie
+30;9,9 km²;Pieńsk;powiat zgorzelecki;5451;dolnośląskie
+31;13,5 km²;Ścinawa;powiat lubiński;5288;dolnośląskie
+32;14,8 km²;Szczawno-Zdrój;powiat wałbrzyski;5247;dolnośląskie
+33;4,3 km²;Jaworzyna Śląska;powiat świdnicki;5026;dolnośląskie
+34;20,3 km²;Lądek-Zdrój;powiat kłodzki;4995;dolnośląskie
+35;2,4 km²;Stronie Śląskie;powiat kłodzki;4992;dolnośląskie
+36;80,4 km²;Szczytna;powiat kłodzki;4810;dolnośląskie
+37;17,4 km²;Jedlina-Zdrój;powiat wałbrzyski;4652;dolnośląskie
+38;7,7 km²;Bolków;powiat jaworski;4637;dolnośląskie
+39;8,4 km²;Bierutów;powiat oleśnicki;4481;dolnośląskie
+40;13 km²;Kamieniec Ząbkowicki;powiat ząbkowicki;4328;dolnośląskie
+41;20,3 km²;Olszyna;powiat lubański;4313;dolnośląskie
+42;38 km²;Karpacz;powiat jeleniogórski;4278;dolnośląskie
+43;16,1 km²;Nowogrodziec;powiat bolesławiecki;4115;dolnośląskie
+44;22,3 km²;Duszniki-Zdrój;powiat kłodzki;4051;dolnośląskie
+45;8,6 km²;Leśna;powiat lubański;4016;dolnośląskie
+46;22,9 km²;Bolesławiec;powiat bolesławiecki;37160;dolnośląskie
+47;21 km²;Oleśnica;powiat oleśnicki;35210;dolnośląskie
+48;27,4 km²;Oława;powiat oławski;33183;dolnośląskie
+49;20,1 km²;Dzierżoniów;powiat dzierżoniowski;30822;dolnośląskie
+50;20,7 km²;Świeradów-Zdrój;powiat lubański;3961;dolnośląskie
+51;6,1 km²;Zawidów;powiat zgorzelecki;3766;dolnośląskie
+52;10,3 km²;Mieroszów;powiat wałbrzyski;3762;dolnośląskie
+53;14,7 km²;Mirsk;powiat lwówecki;3653;dolnośląskie
+54;9,9 km²;Prochowice;powiat legnicki;3514;dolnośląskie
+55;32,2 km²;Wojcieszów;powiat złotoryjski;3464;dolnośląskie
+56;15,9 km²;Zgorzelec;powiat zgorzelecki;29109;dolnośląskie
+57;36,2 km²;Bielawa;powiat dzierżoniowski;28181;dolnośląskie
+58;24,8 km²;Kłodzko;powiat kłodzki;24933;dolnośląskie
+59;30,4 km²;Świebodzice;powiat świdnicki;21870;dolnośląskie
+60;23,7 km²;Polkowice;powiat polkowicki;21416;dolnośląskie
+61;18,8 km²;Jawor;powiat jaworski;20713;dolnośląskie
+62;37,1 km²;Nowa Ruda;powiat kłodzki;20543;dolnośląskie
+63;19,8 km²;Niemcza;powiat dzierżoniowski;2703;dolnośląskie
+64;8,7 km²;Węgliniec;powiat zgorzelecki;2654;dolnośląskie
+65;3,3 km²;Wąsosz;powiat górowski;2557;dolnośląskie
+66;7,7 km²;Złoty Stok;powiat ząbkowicki;2470;dolnośląskie
+67;14,4 km²;Międzylesie;powiat kłodzki;2397;dolnośląskie
+68;6,4 km²;Międzybórz;powiat oleśnicki;2331;dolnośląskie
+69;4,7 km²;Bardo;powiat ząbkowicki;2329;dolnośląskie
+70;15,1 km²;Radków;powiat kłodzki;2270;dolnośląskie
+71;9,2 km²;Wiązów;powiat strzeliński;2265;dolnośląskie
+72;10,9 km²;Prusice;powiat trzebnicki;2149;dolnośląskie
+73;11,1 km²;Miękinia;powiat średzki;2059;dolnośląskie
+74;1,8 km²;Świerzawa;powiat złotoryjski;2015;dolnośląskie
+75;16,1 km²;Lubań;powiat lubański;19640;dolnośląskie
+76;18 km²;Kamienna Góra;powiat kamiennogórski;17243;dolnośląskie
+77;59,9 km²;Bogatynia;powiat zgorzelecki;16152;dolnośląskie
+78;17,1 km²;Jelcz-Laskowice;powiat oławski;15088;dolnośląskie
+79;20,5 km²;Strzegom;powiat świdnicki;15026;dolnośląskie
+80;13,7 km²;Ząbkowice Śląskie;powiat ząbkowicki;14299;dolnośląskie
+81;27 km²;Boguszów-Gorce;powiat wałbrzyski;14272;dolnośląskie
+82;11,5 km²;Złotoryja;powiat złotoryjski;14257;dolnośląskie
+83;10,6 km²;Trzebnica;powiat trzebnicki;13624;dolnośląskie
+84;18,6 km²;Brzeg Dolny;powiat wołowski;12565;dolnośląskie
+85;5,3 km²;Chojnów;powiat legnicki;12392;dolnośląskie
+86;18,5 km²;Wołów;powiat wołowski;12043;dolnośląskie
+87;12,7 km²;Strzelin;powiat strzeliński;11956;dolnośląskie
+88;84,7 km²;Wałbrzych;powiat Wałbrzych;101082;dolnośląskie
+89;15,7 km²;Siechnice;powiat wrocławski;10797;dolnośląskie
+90;13,5 km²;Milicz;powiat milicki;10785;dolnośląskie
+91;13,7 km²;Góra;powiat górowski;10778;dolnośląskie
+92;8,1 km²;Lubomierz;powiat lwówecki;1759;dolnośląskie
+93;7,2 km²;Wleń;powiat lwówecki;1577;dolnośląskie
+94;7,7 km²;Szubin;powiat nakielski;9405;kujawsko-pomorskie
+95;10,2 km²;Kruszwica;powiat inowrocławski;9131;kujawsko-pomorskie
+96;57,8 km²;Grudziądz;powiat Grudziądz;89081;kujawsko-pomorskie
+97;6,6 km²;Sępólno Krajeńskie;powiat sępoleński;8785;kujawsko-pomorskie
+98;9,5 km²;Janikowo;powiat inowrocławski;8186;kujawsko-pomorskie
+99;30,4 km²;Inowrocław;powiat inowrocławski;67745;kujawsko-pomorskie
+100;3,7 km²;Barcin;powiat żniński;6985;kujawsko-pomorskie
+101;9,2 km²;Gniewkowo;powiat inowrocławski;6685;kujawsko-pomorskie
+102;4,3 km²;Więcbork;powiat sępoleński;5680;kujawsko-pomorskie
+103;3,5 km²;Nowe;powiat świecki;5439;kujawsko-pomorskie
+104;4,5 km²;Strzelno;powiat mogileński;5240;kujawsko-pomorskie
+105;3,4 km²;Pakość;powiat inowrocławski;5152;kujawsko-pomorskie
+106;5,7 km²;Radziejów;powiat radziejowski;5081;kujawsko-pomorskie
+107;7 km²;Brześć Kujawski;powiat włocławski;4544;kujawsko-pomorskie
+108;2,9 km²;Łabiszyn;powiat żniński;4391;kujawsko-pomorskie
+109;6,8 km²;Kcynia;powiat nakielski;4241;kujawsko-pomorskie
+110;9,8 km²;Piotrków Kujawski;powiat radziejowski;4217;kujawsko-pomorskie
+111;5 km²;Mrocza;powiat nakielski;4137;kujawsko-pomorskie
+112;4,5 km²;Kowalewo Pomorskie;powiat golubsko-dobrzyński;4062;kujawsko-pomorskie
+113;176 km²;Bydgoszcz;powiat Bydgoszcz;328370;kujawsko-pomorskie
+114;3 km²;Janowiec Wielkopolski;powiat żniński;3699;kujawsko-pomorskie
+115;3,4 km²;Jabłonowo Pomorskie;powiat brodnicki;3650;kujawsko-pomorskie
+116;7,5 km²;Skępe;powiat lipnowski;3433;kujawsko-pomorskie
+117;4,7 km²;Kowal;powiat włocławski;3288;kujawsko-pomorskie
+118;4,8 km²;Łasin;powiat grudziądzki;3058;kujawsko-pomorskie
+119;23,2 km²;Brodnica;powiat brodnicki;28370;kujawsko-pomorskie
+120;16,5 km²;Świecie;powiat świecki;24896;kujawsko-pomorskie
+121;2 km²;Lubraniec;powiat włocławski;2716;kujawsko-pomorskie
+122;7,1 km²;Pruszcz;powiat świecki;2710;kujawsko-pomorskie
+123;2,2 km²;Izbica Kujawska;powiat włocławski;2456;kujawsko-pomorskie
+124;3,7 km²;Kamień Krajeński;powiat sępoleński;2338;kujawsko-pomorskie
+125;115,7 km²;Toruń;powiat Toruń;195263;kujawsko-pomorskie
+126;13,6 km²;Chełmno;powiat chełmiński;18228;kujawsko-pomorskie
+127;10,8 km²;Nakło nad Notecią;powiat nakielski;17062;kujawsko-pomorskie
+128;11 km²;Rypin;powiat rypiński;15466;kujawsko-pomorskie
+129;18,7 km²;Solec Kujawski;powiat bydgoski;15290;kujawsko-pomorskie
+130;7,8 km²;Chełmża;powiat toruński;13767;kujawsko-pomorskie
+131;11 km²;Lipno;powiat lipnowski;13409;kujawsko-pomorskie
+132;8,4 km²;Żnin;powiat żniński;13124;kujawsko-pomorskie
+133;17,7 km²;Tuchola;powiat tucholski;13044;kujawsko-pomorskie
+134;8,5 km²;Wąbrzeźno;powiat wąbrzeski;12968;kujawsko-pomorskie
+135;7,2 km²;Aleksandrów Kujawski;powiat aleksandrowski;11470;kujawsko-pomorskie
+136;7,5 km²;Golub-Dobrzyń;powiat golubsko-dobrzyński;11395;kujawsko-pomorskie
+137;8,3 km²;Mogilno;powiat mogileński;11052;kujawsko-pomorskie
+138;85,1 km²;Włocławek;powiat Włocławek;101450;kujawsko-pomorskie
+139;28,2 km²;Koronowo;powiat bydgoski;10754;kujawsko-pomorskie
+140;15,3 km²;Ciechocinek;powiat aleksandrowski;10214;kujawsko-pomorskie
+141;-;Kikół;powiat lipnowski;1994;kujawsko-pomorskie
+142;6,5 km²;Dobrzyń nad Wisłą;powiat lipnowski;1983;kujawsko-pomorskie
+143;1,8 km²;Radzyń Chełmiński;powiat grudziądzki;1784;kujawsko-pomorskie
+144;9,8 km²;Nieszawa;powiat aleksandrowski;1743;kujawsko-pomorskie
+145;1,9 km²;Chodecz;powiat włocławski;1712;kujawsko-pomorskie
+146;-;Gąsawa;powiat żniński;1406;kujawsko-pomorskie
+147;3,4 km²;Górzno;powiat brodnicki;1388;kujawsko-pomorskie
+148;2,4 km²;Lubień Kujawski;powiat włocławski;1332;kujawsko-pomorskie
+149;-;Bobrowniki;powiat lipnowski;1104;kujawsko-pomorskie
+150;27,2 km²;Ryki;powiat rycki;9060;lubelskie
+151;7,6 km²;Goraj;powiat biłgorajski;892;lubelskie
+152;-;Turobin;powiat biłgorajski;873;lubelskie
+153;3,7 km²;Józefów nad Wisłą;powiat opolski;812;lubelskie
+154;15,3 km²;Poniatowa;powiat opolski;8328;lubelskie
+155;15,1 km²;Opole Lubelskie;powiat opolski;7918;lubelskie
+156;30,3 km²;Zamość;powiat Zamość;58685;lubelskie
+157;40 km²;Chełm;powiat Chełm;57576;lubelskie
+158;49,4 km²;Biała Podlaska;powiat Biała Podlaska;54581;lubelskie
+159;23,5 km²;Bełżyce;powiat lubelski;5973;lubelskie
+160;10,1 km²;Terespol;powiat bialski;5139;lubelskie
+161;50,5 km²;Puławy;powiat puławski;44171;lubelskie
+162;29,1 km²;Szczebrzeszyn;powiat zamojski;4760;lubelskie
+163;6,7 km²;Bychawa;powiat lubelski;4511;lubelskie
+164;14,3 km²;Rejowiec Fabryczny;powiat chełmski;4016;lubelskie
+165;20,4 km²;Świdnik;powiat świdnicki;36806;lubelskie
+166;147,5 km²;Lublin;powiat Lublin;330447;lubelskie
+167;26,1 km²;Kraśnik;powiat kraśnicki;31500;lubelskie
+168;13,8 km²;Nałęczów;powiat puławski;3614;lubelskie
+169;30,4 km²;Kazimierz Dolny;powiat puławski;3248;lubelskie
+170;10,7 km²;Tarnogród;powiat biłgorajski;3150;lubelskie
+171;35,8 km²;Łuków;powiat łukowski;27303;lubelskie
+172;21,1 km²;Biłgoraj;powiat biłgorajski;24932;lubelskie
+173;7 km²;Krasnobród;powiat zamojski;2981;lubelskie
+174;16,8 km²;Kock;powiat lubartowski;2898;lubelskie
+175;-;Piszczac;powiat bialski;2825;lubelskie
+176;6,2 km²;Zwierzyniec;powiat zamojski;2799;lubelskie
+177;8,4 km²;Piaski;powiat świdnicki;2421;lubelskie
+178;9,2 km²;Stoczek Łukowski;powiat łukowski;2373;lubelskie
+179;5 km²;Józefów;powiat biłgorajski;2335;lubelskie
+180;7,7 km²;Annopol;powiat kraśnicki;2316;lubelskie
+181;3,9 km²;Lubycza Królewska;powiat tomaszowski;2155;lubelskie
+182;13,9 km²;Lubartów;powiat lubartowski;19879;lubelskie
+183;13,3 km²;Tomaszów Lubelski;powiat tomaszowski;17940;lubelskie
+184;19 km²;Łęczna;powiat łęczyński;17791;lubelskie
+185;42,1 km²;Krasnystaw;powiat krasnostawski;17439;lubelskie
+186;33 km²;Hrubieszów;powiat hrubieszowski;16056;lubelskie
+187;20 km²;Międzyrzec Podlaski;powiat bialski;15529;lubelskie
+188;19,3 km²;Radzyń Podlaski;powiat radzyński;14361;lubelskie
+189;38,3 km²;Dęblin;powiat rycki;14217;lubelskie
+190;18 km²;Włodawa;powiat włodawski;12219;lubelskie
+191;14,8 km²;Janów Lubelski;powiat janowski;11000;lubelskie
+192;8,1 km²;Parczew;powiat parczewski;10240;lubelskie
+193;6,5 km²;Rejowiec;powiat chełmski;1985;lubelskie
+194;29,8 km²;Ostrów Lubelski;powiat lubartowski;1972;lubelskie
+195;5 km²;Łaszczów;powiat tomaszowski;1967;lubelskie
+196;18,5 km²;Tyszowce;powiat tomaszowski;1842;lubelskie
+197;5,9 km²;Kamionka;powiat lubartowski;1718;lubelskie
+198;9,5 km²;Izbica;powiat krasnostawski;1701;lubelskie
+199;12,9 km²;Urzędów;powiat kraśnicki;1698;lubelskie
+200;7,9 km²;Modliborzyce;powiat janowski;1414;lubelskie
+201;4,7 km²;Frampol;powiat biłgorajski;1339;lubelskie
+202;13,2 km²;Siedliszcze;powiat chełmski;1338;lubelskie
+203;-;Czemierniki;powiat radzyński;1307;lubelskie
+204;8,6 km²;Sulęcin;powiat sulęciński;9779;lubuskie
+205;5,5 km²;Strzelce Krajeńskie;powiat strzelecko-drezdenecki;9724;lubuskie
+206;10,7 km²;Drezdenko;powiat strzelecko-drezdenecki;9491;lubuskie
+207;35,9 km²;Skwierzyna;powiat międzyrzecki;9148;lubuskie
+208;-;Brody;powiat żarski;889;lubuskie
+209;5,9 km²;Kożuchów;powiat nowosolski;8929;lubuskie
+210;8,2 km²;Witnica;powiat gorzowski;6425;lubuskie
+211;11,4 km²;Rzepin;powiat słubicki;6411;lubuskie
+212;3,6 km²;Zbąszynek;powiat świebodziński;4914;lubuskie
+213;14,6 km²;Nowogród Bobrzański;powiat zielonogórski;4781;lubuskie
+214;14,9 km²;Sława;powiat wschowski;4119;lubuskie
+215;4,8 km²;Jasień;powiat żarski;4044;lubuskie
+216;21,8 km²;Nowa Sól;powiat nowosolski;36183;lubuskie
+217;33,2 km²;Żary;powiat żarski;35033;lubuskie
+218;2,3 km²;Bytom Odrzański;powiat nowosolski;3970;lubuskie
+219;8 km²;Ośno Lubuskie;powiat słubicki;3899;lubuskie
+220;3,7 km²;Babimost;powiat zielonogórski;3824;lubuskie
+221;4,6 km²;Kargowa;powiat zielonogórski;3823;lubuskie
+222;9,4 km²;Czerwieńsk;powiat zielonogórski;3804;lubuskie
+223;9,2 km²;Iłowa;powiat żagański;3633;lubuskie
+224;6,9 km²;Małomice;powiat żagański;3431;lubuskie
+225;40,4 km²;Żagań;powiat żagański;23596;lubuskie
+226;16,9 km²;Świebodzin;powiat świebodziński;20921;lubuskie
+227;5,7 km²;Dobiegniew;powiat strzelecko-drezdenecki;2987;lubuskie
+228;23,9 km²;Gozdnica;powiat żagański;2754;lubuskie
+229;5,3 km²;Cybinka;powiat słubicki;2667;lubuskie
+230;3,3 km²;Nowe Miasteczko;powiat nowosolski;2643;lubuskie
+231;9,1 km²;Torzym;powiat sulęciński;2414;lubuskie
+232;16,4 km²;Łęknica;powiat żarski;2262;lubuskie
+233;3 km²;Trzciel;powiat międzyrzecki;2233;lubuskie
+234;46,2 km²;Kostrzyn nad Odrą;powiat gorzowski;17626;lubuskie
+235;14 km²;Międzyrzecz;powiat międzyrzecki;16924;lubuskie
+236;19,2 km²;Słubice;powiat słubicki;16236;lubuskie
+237;20,7 km²;Gubin;powiat krośnieński;15684;lubuskie
+238;6,8 km²;Sulechów;powiat zielonogórski;15602;lubuskie
+239;275,4 km²;Zielona Góra;powiat Zielona Góra;139132;lubuskie
+240;9,3 km²;Wschowa;powiat wschowski;13068;lubuskie
+241;12,6 km²;Lubsko;powiat żarski;12909;lubuskie
+242;85,7 km²;Gorzów Wielkopolski;powiat Gorzów Wielkopolski;115847;lubuskie
+243;11 km²;Szprotawa;powiat żagański;10652;lubuskie
+244;8,2 km²;Krosno Odrzańskie;powiat krośnieński;10601;lubuskie
+245;12,1 km²;Lubniewice;powiat sulęciński;1989;lubuskie
+246;7,9 km²;Otyń;powiat nowosolski;1754;lubuskie
+247;1,6 km²;Szlichtyngowa;powiat wschowski;1254;lubuskie
+248;18,5 km²;Dąbrowice;powiat kutnowski;947;łódzkie
+249;-;Parzęczew;powiat zgierski;919;łódzkie
+250;3,8 km²;Bolimów;powiat skierniewicki;903;łódzkie
+251;-;Kiernozia;powiat łowicki;831;łódzkie
+252;-;Inowłódz;powiat tomaszowski;829;łódzkie
+253;6 km²;Wieruszów;powiat wieruszowski;8357;łódzkie
+254;8,7 km²;Żychlin;powiat kutnowski;7572;łódzkie
+255;23,3 km²;Tuszyn;powiat łódzki wschodni;7189;łódzkie
+256;10,8 km²;Zelów;powiat bełchatowski;7126;łódzkie
+257;67,2 km²;Piotrków Trybunalski;powiat Piotrków Trybunalski;66901;łódzkie
+258;293,3 km²;Łódź;powiat Łódź;655279;łódzkie
+259;33 km²;Pabianice;powiat pabianicki;60929;łódzkie
+260;5,9 km²;Poddębice;powiat poddębicki;6820;łódzkie
+261;20,2 km²;Pajęczno;powiat pajęczański;6409;łódzkie
+262;41,3 km²;Tomaszów Mazowiecki;powiat tomaszowski;57728;łódzkie
+263;42,3 km²;Zgierz;powiat zgierski;53763;łódzkie
+264;34,6 km²;Bełchatów;powiat bełchatowski;52567;łódzkie
+265;26,3 km²;Sulejów;powiat piotrkowski;5969;łódzkie
+266;4,9 km²;Działoszyn;powiat pajęczański;5292;łódzkie
+267;34,6 km²;Skierniewice;powiat Skierniewice;45403;łódzkie
+268;51,4 km²;Radomsko;powiat radomszczański;43216;łódzkie
+269;33,6 km²;Kutno;powiat kutnowski;41009;łódzkie
+270;4,2 km²;Krośniewice;powiat kutnowski;4035;łódzkie
+271;51,2 km²;Sieradz;powiat sieradzki;38960;łódzkie
+272;24,6 km²;Zduńska Wola;powiat zduńskowolski;38650;łódzkie
+273;4,8 km²;Drzewica;powiat opoczyński;3531;łódzkie
+274;16,8 km²;Rzgów;powiat łódzki wschodni;3453;łódzkie
+275;13,8 km²;Złoczew;powiat sieradzki;3419;łódzkie
+276;8,2 km²;Stryków;powiat zgierski;3381;łódzkie
+277;6,1 km²;Przedbórz;powiat radomszczański;3189;łódzkie
+278;9,5 km²;Biała Rawska;powiat rawski;3030;łódzkie
+279;23,4 km²;Łowicz;powiat łowicki;26099;łódzkie
+280;13,8 km²;Aleksandrów Łódzki;powiat zgierski;22020;łódzkie
+281;16,9 km²;Wieluń;powiat wieluński;20682;łódzkie
+282;12,2 km²;Uniejów;powiat poddębicki;2954;łódzkie
+283;10,9 km²;Warta;powiat sieradzki;2952;łódzkie
+284;12 km²;Kamieńsk;powiat radomszczański;2597;łódzkie
+285;15,2 km²;Wolbórz;powiat piotrkowski;2265;łódzkie
+286;18,9 km²;Lututów;powiat wieruszowski;2204;łódzkie
+287;1,6 km²;Błaszki;powiat sieradzki;2007;łódzkie
+288;27,3 km²;Konstantynów Łódzki;powiat pabianicki;19200;łódzkie
+289;27 km²;Opoczno;powiat opoczyński;19116;łódzkie
+290;15,5 km²;Ozorków;powiat zgierski;18168;łódzkie
+291;15,7 km²;Łask;powiat łaski;16115;łódzkie
+292;14,3 km²;Rawa Mazowiecka;powiat rawski;16001;łódzkie
+293;9 km²;Łęczyca;powiat łęczycki;13155;łódzkie
+294;19,8 km²;Głowno;powiat zgierski;13145;łódzkie
+295;9,9 km²;Koluszki;powiat łódzki wschodni;12079;łódzkie
+296;21,6 km²;Brzeziny;powiat brzeziński;11960;łódzkie
+297;17,9 km²;Szadek;powiat zduńskowolski;1764;łódzkie
+298;4,2 km²;Rozprza;powiat piotrkowski;1611;łódzkie
+299;5,2 km²;Lutomiersk;powiat pabianicki;1582;łódzkie
+300;5,2 km²;Piątek;powiat łęczycki;1562;łódzkie
+301;10,2 km²;Ujazd;powiat tomaszowski;1542;łódzkie
+302;-;Osjaków;powiat wieluński;1350;łódzkie
+303;12,6 km²;Jeżów;powiat brzeziński;1271;łódzkie
+304;-;Bolesławiec;powiat wieruszowski;1150;łódzkie
+305;-;Żarnów;powiat opoczyński;1074;łódzkie
+306;-;Białaczów;powiat opoczyński;1068;łódzkie
+307;-;Grabów;powiat łęczycki;1003;łódzkie
+308;17 km²;Krzeszowice;powiat krakowski;9726;małopolskie
+309;39,7 km²;Krynica-Zdrój;powiat nowosądecki;9631;małopolskie
+310;64,5 km²;Bukowno;powiat olkuski;9526;małopolskie
+311;5,6 km²;Książ Wielki;powiat miechowski;848;małopolskie
+312;326,9 km²;Kraków;powiat Kraków;804237;małopolskie
+313;57,6 km²;Nowy Sącz;powiat Nowy Sącz;80446;małopolskie
+314;27,7 km²;Sucha Beskidzka;powiat suski;8926;małopolskie
+315;15 km²;Stary Sącz;powiat nowosądecki;8679;małopolskie
+316;8,3 km²;Chełmek;powiat oświęcimski;8461;małopolskie
+317;10,1 km²;Wolbrom;powiat olkuski;8104;małopolskie
+318;3,3 km²;Koszyce;powiat proszowicki;769;małopolskie
+319;27,1 km²;Mszana Dolna;powiat limanowski;7819;małopolskie
+320;16,4 km²;Sułkowice;powiat myślenicki;6493;małopolskie
+321;18,1 km²;Tuchów;powiat tarnowski;6227;małopolskie
+322;13 km²;Dobczyce;powiat myślenicki;6195;małopolskie
+323;17 km²;Grybów;powiat nowosądecki;5947;małopolskie
+324;7,3 km²;Proszowice;powiat proszowicki;5771;małopolskie
+325;20,1 km²;Maków Podhalański;powiat suski;5547;małopolskie
+326;38,3 km²;Piwniczna-Zdrój;powiat nowosądecki;5418;małopolskie
+327;21 km²;Jordanów;powiat suski;5406;małopolskie
+328;32,9 km²;Szczawnica;powiat nowotarski;5288;małopolskie
+329;24,4 km²;Muszyna;powiat nowosądecki;4452;małopolskie
+330;17,7 km²;Biecz;powiat gorlicki;4341;małopolskie
+331;5,5 km²;Kalwaria Zebrzydowska;powiat wadowicki;4309;małopolskie
+332;3,4 km²;Słomniki;powiat krakowski;4159;małopolskie
+333;11,1 km²;Żabno;powiat tarnowski;4118;małopolskie
+334;6,9 km²;Szczucin;powiat dąbrowski;4079;małopolskie
+335;30,1 km²;Oświęcim;powiat oświęcimski;35806;małopolskie
+336;38,3 km²;Chrzanów;powiat chrzanowski;34129;małopolskie
+337;51,1 km²;Nowy Targ;powiat nowotarski;33049;małopolskie
+338;25,7 km²;Olkusz;powiat olkuski;32467;małopolskie
+339;3 km²;Skała;powiat krakowski;3875;małopolskie
+340;38 km²;Czarny Dunajec;powiat nowotarski;3684;małopolskie
+341;11,5 km²;Zator;powiat oświęcimski;3614;małopolskie
+342;8,9 km²;Alwernia;powiat chrzanowski;3258;małopolskie
+343;8,5 km²;Wojnicz;powiat tarnowski;3137;małopolskie
+344;7,2 km²;Bobowa;powiat gorlicki;3054;małopolskie
+345;29,9 km²;Bochnia;powiat bocheński;28572;małopolskie
+346;13,4 km²;Wieliczka;powiat wielicki;27506;małopolskie
+347;23,5 km²;Gorlice;powiat gorlicki;25682;małopolskie
+348;84,3 km²;Zakopane;powiat tatrzański;25266;małopolskie
+349;20,5 km²;Skawina;powiat krakowski;24028;małopolskie
+350;5 km²;Nowy Wiśnicz;powiat bocheński;2733;małopolskie
+351;16,8 km²;Radłów;powiat tarnowski;2682;małopolskie
+352;25,2 km²;Ryglice;powiat tarnowski;2675;małopolskie
+353;10 km²;Ciężkowice;powiat tarnowski;2487;małopolskie
+354;4,4 km²;Świątniki Górne;powiat krakowski;2398;małopolskie
+355;14,1 km²;Czchów;powiat brzeski;2304;małopolskie
+356;32 km²;Trzebinia;powiat chrzanowski;18613;małopolskie
+357;10,3 km²;Andrychów;powiat wadowicki;18503;małopolskie
+358;30,2 km²;Myślenice;powiat myślenicki;17800;małopolskie
+359;23 km²;Kęty;powiat oświęcimski;17772;małopolskie
+360;10,5 km²;Wadowice;powiat wadowicki;17331;małopolskie
+361;27,4 km²;Niepołomice;powiat wielicki;16644;małopolskie
+362;35,9 km²;Libiąż;powiat chrzanowski;16039;małopolskie
+363;11,9 km²;Brzesko;powiat brzeski;15980;małopolskie
+364;18,7 km²;Limanowa;powiat limanowski;14486;małopolskie
+365;36,7 km²;Rabka-Zdrój;powiat nowotarski;12264;małopolskie
+366;23,2 km²;Dąbrowa Tarnowska;powiat dąbrowski;11507;małopolskie
+367;72,4 km²;Tarnów;powiat Tarnów;103515;małopolskie
+368;15,5 km²;Miechów;powiat miechowski;10990;małopolskie
+369;19 km²;Brzeszcze;powiat oświęcimski;10703;małopolskie
+370;7,3 km²;Nowe Brzesko;powiat proszowicki;1611;małopolskie
+371;4 km²;Zakliczyn;powiat tarnowski;1571;małopolskie
+372;5,5 km²;Czerwińsk nad Wisłą;powiat płoński;986;mazowieckie
+373;-;Odrzywół;powiat przysuski;967;mazowieckie
+374;-;Magnuszew;powiat kozienicki;966;mazowieckie
+375;20,9 km²;Solec nad Wisłą;powiat lipski;931;mazowieckie
+376;-;Sienno;powiat lipski;928;mazowieckie
+377;-;Przytyk;powiat radomski;907;mazowieckie
+378;4,6 km²;Jadów;powiat wołomiński;900;mazowieckie
+379;28,1 km²;Karczew;powiat otwocki;9311;mazowieckie
+380;16,9 km²;Wyśmierzyce;powiat białobrzeski;878;mazowieckie
+381;-;Głowaczów;powiat kozienicki;825;mazowieckie
+382;10,3 km²;Maków Mazowiecki;powiat makowski;8974;mazowieckie
+383;11,2 km²;Żuromin;powiat żuromiński;8459;mazowieckie
+384;7,9 km²;Tłuszcz;powiat wołomiński;8020;mazowieckie
+385;-;Gielniów;powiat przysuski;779;mazowieckie
+386;31,9 km²;Siedlce;powiat Siedlce;75502;mazowieckie
+387;-;Ciepielów;powiat lipski;738;mazowieckie
+388;12,6 km²;Nasielsk;powiat nowodworski;7357;mazowieckie
+389;15,9 km²;Zwoleń;powiat zwoleński;7195;mazowieckie
+390;19,2 km²;Pruszków;powiat pruszkowski;65388;mazowieckie
+391;23,7 km²;Łosice;powiat łosicki;6858;mazowieckie
+392;13,4 km²;Łochów;powiat węgrowski;6564;mazowieckie
+393;7,5 km²;Białobrzegi;powiat białobrzeski;6423;mazowieckie
+394;8,6 km²;Mszczonów;powiat żyrardowski;6131;mazowieckie
+395;13,5 km²;Legionowo;powiat legionowski;52686;mazowieckie
+396;16,2 km²;Piaseczno;powiat piaseczyński;51985;mazowieckie
+397;7 km²;Przysucha;powiat przysuski;5348;mazowieckie
+398;13,4 km²;Serock;powiat legionowski;5201;mazowieckie
+399;33,5 km²;Ostrołęka;powiat Ostrołęka;48471;mazowieckie
+400;11 km²;Ząbki;powiat wołomiński;45189;mazowieckie
+401;26,2 km²;Marki;powiat wołomiński;44882;mazowieckie
+402;47,3 km²;Otwock;powiat otwocki;43986;mazowieckie
+403;32,8 km²;Ciechanów;powiat ciechanowski;41848;mazowieckie
+404;15,7 km²;Lipsko;powiat lipski;4995;mazowieckie
+405;15,4 km²;Łaskarzew;powiat garwoliński;4488;mazowieckie
+406;27,5 km²;Skaryszew;powiat radomski;4435;mazowieckie
+407;6,7 km²;Pilawa;powiat garwoliński;4411;mazowieckie
+408;5,2 km²;Tarczyn;powiat piaseczyński;4311;mazowieckie
+409;15,8 km²;Iłża;powiat radomski;4296;mazowieckie
+410;28 km²;Gąbin;powiat płocki;4103;mazowieckie
+411;13,2 km²;Mińsk Mazowiecki;powiat miński;39979;mazowieckie
+412;14,4 km²;Żyrardów;powiat żyrardowski;38621;mazowieckie
+413;17,2 km²;Wołomin;powiat wołomiński;35739;mazowieckie
+414;13,2 km²;Grodzisk Mazowiecki;powiat grodziski;34589;mazowieckie
+415;26,2 km²;Sochaczew;powiat sochaczewski;33587;mazowieckie
+416;34,8 km²;Mława;powiat mławski;30810;mazowieckie
+417;8,2 km²;Jedlnia-Letnisko;powiat radomski;3974;mazowieckie
+418;8,4 km²;Raciąż;powiat płoński;3965;mazowieckie
+419;10,1 km²;Podkowa Leśna;powiat grodziski;3810;mazowieckie
+420;2,8 km²;Halinów;powiat miński;3756;mazowieckie
+421;12,1 km²;Żelechów;powiat garwoliński;3740;mazowieckie
+422;7,7 km²;Mrozy;powiat miński;3633;mazowieckie
+423;11,3 km²;Nowe Miasto nad Pilicą;powiat grójecki;3523;mazowieckie
+424;11,2 km²;Myszyniec;powiat ostrołęcki;3225;mazowieckie
+425;20 km²;Zakroczym;powiat nowodworski;3134;mazowieckie
+426;28,2 km²;Nowy Dwór Mazowiecki;powiat nowodworski;28533;mazowieckie
+427;19,6 km²;Kobyłka;powiat wołomiński;28147;mazowieckie
+428;20,8 km²;Wyszków;powiat wyszkowski;26042;mazowieckie
+429;5,8 km²;Piastów;powiat pruszkowski;22994;mazowieckie
+430;11,6 km²;Płońsk;powiat płoński;21578;mazowieckie
+431;22,3 km²;Ostrów Mazowiecka;powiat ostrowski;21547;mazowieckie
+432;19,3 km²;Sulejówek;powiat miński;21358;mazowieckie
+433;23,9 km²;Józefów;powiat otwocki;21140;mazowieckie
+434;17,5 km²;Chorzele;powiat przasnyski;2921;mazowieckie
+435;7,4 km²;Glinojeck;powiat ciechanowski;2801;mazowieckie
+436;12,3 km²;Kałuszyn;powiat miński;2694;mazowieckie
+437;9,7 km²;Drobin;powiat płocki;2656;mazowieckie
+438;12 km²;Różan;powiat makowski;2628;mazowieckie
+439;13 km²;Wyszogród;powiat płocki;2403;mazowieckie
+440;-;Siennica;powiat miński;2309;mazowieckie
+441;7,7 km²;Cegłów;powiat miński;2294;mazowieckie
+442;13 km²;Mogielnica;powiat grójecki;2122;mazowieckie
+443;111,8 km²;Radom;powiat Radom;196918;mazowieckie
+444;23,1 km²;Pułtusk;powiat pułtuski;19198;mazowieckie
+445;17,5 km²;Sokołów Podlaski;powiat sokołowski;18433;mazowieckie
+446;8,4 km²;Łomianki;powiat warszawski zachodni;18183;mazowieckie
+447;79,5 km²;Zielonka;powiat wołomiński;18086;mazowieckie
+448;22,1 km²;Garwolin;powiat garwoliński;17315;mazowieckie
+449;32,4 km²;Gostynin;powiat gostyniński;17107;mazowieckie
+450;18,6 km²;Sierpc;powiat sierpecki;16971;mazowieckie
+451;17,8 km²;Konstancin-Jeziorna;powiat piaseczyński;16937;mazowieckie
+452;8,6 km²;Grójec;powiat grójecki;16833;mazowieckie
+453;13,4 km²;Milanówek;powiat grodziski;16370;mazowieckie
+454;25,2 km²;Przasnysz;powiat przasnyski;16350;mazowieckie
+455;18,4 km²;Pionki;powiat radomski;16174;mazowieckie
+456;10,5 km²;Kozienice;powiat kozienicki;15667;mazowieckie
+457;8,1 km²;Ożarów Mazowiecki;powiat warszawski zachodni;15413;mazowieckie
+458;23,4 km²;Radzymin;powiat wołomiński;14782;mazowieckie
+459;14,7 km²;Brwinów;powiat pruszkowski;14482;mazowieckie
+460;14,6 km²;Góra Kalwaria;powiat piaseczyński;12129;mazowieckie
+461;9,1 km²;Błonie;powiat warszawski zachodni;12129;mazowieckie
+462;88 km²;Płock;powiat Płock;111927;mazowieckie
+463;26,8 km²;Warka;powiat grójecki;11932;mazowieckie
+464;35,5 km²;Węgrów;powiat węgrowski;11849;mazowieckie
+465;21,9 km²;Szydłowiec;powiat szydłowiecki;10594;mazowieckie
+466;11,6 km²;Kosów Lacki;powiat sokołowski;1962;mazowieckie
+467;6,9 km²;Sochocin;powiat płoński;1939;mazowieckie
+468;517,2 km²;Warszawa;powiat Warszawa;1861644;mazowieckie
+469;-;Dobre;powiat miński;1826;mazowieckie
+470;11,8 km²;Sanniki;powiat gostyniński;1752;mazowieckie
+471;28,1 km²;Brok;powiat ostrowski;1748;mazowieckie
+472;12,1 km²;Bieżuń;powiat żuromiński;1706;mazowieckie
+473;4,5 km²;Mordy;powiat siedlecki;1601;mazowieckie
+474;8,9 km²;Nowe Miasto;powiat płoński;1520;mazowieckie
+475;5,7 km²;Lubowidz;powiat żuromiński;1507;mazowieckie
+476;6,6 km²;Wiskitki;powiat żyrardowski;1424;mazowieckie
+477;-;Maciejowice;powiat garwoliński;1410;mazowieckie
+478;25,7 km²;Latowicz;powiat miński;1338;mazowieckie
+479;12,6 km²;Jastrząb;powiat szydłowiecki;1174;mazowieckie
+480;4,9 km²;Bodzanów;powiat płocki;1147;mazowieckie
+481;-;Osieck;powiat otwocki;1099;mazowieckie
+482;15,1 km²;Olesno;powiat oleski;9075;opolskie
+483;3,3 km²;Ozimek;powiat opolski;7993;opolskie
+484;9,9 km²;Grodków;powiat brzeski;7950;opolskie
+485;9,3 km²;Praszka;powiat oleski;7126;opolskie
+486;6,6 km²;Paczków;powiat nyski;6699;opolskie
+487;16,5 km²;Zawadzkie;powiat strzelecki;6407;opolskie
+488;20,4 km²;Gogolin;powiat krapkowicki;6396;opolskie
+489;49,6 km²;Otmuchów;powiat nyski;6207;opolskie
+490;123,7 km²;Kędzierzyn-Koźle;powiat kędzierzyńsko-kozielski;54847;opolskie
+491;13,1 km²;Niemodlin;powiat opolski;5878;opolskie
+492;11,6 km²;Lewin Brzeski;powiat brzeski;5574;opolskie
+493;18,8 km²;Kietrz;powiat głubczycki;5462;opolskie
+494;22,1 km²;Głogówek;powiat prudnicki;5441;opolskie
+495;7,5 km²;Wołczyn;powiat kluczborski;5332;opolskie
+496;27,5 km²;Nysa;powiat nyski;40987;opolskie
+497;14,6 km²;Brzeg;powiat brzeski;33599;opolskie
+498;9,2 km²;Tułowice;powiat opolski;3656;opolskie
+499;19,5 km²;Dobrodzień;powiat oleski;3473;opolskie
+500;5,8 km²;Byczyna;powiat kluczborski;3377;opolskie
+501;55,7 km²;Kolonowskie;powiat strzelecki;3194;opolskie
+502;12,4 km²;Kluczbork;powiat kluczborski;22070;opolskie
+503;11,9 km²;Baborów;powiat głubczycki;2826;opolskie
+504;16,2 km²;Prószków;powiat opolski;2646;opolskie
+505;14,5 km²;Leśnica;powiat strzelecki;2566;opolskie
+506;18,5 km²;Gorzów Śląski;powiat oleski;2425;opolskie
+507;14,7 km²;Biała;powiat prudnicki;2261;opolskie
+508;20,5 km²;Prudnik;powiat prudnicki;19126;opolskie
+509;30 km²;Strzelce Opolskie;powiat strzelecki;17069;opolskie
+510;22,6 km²;Namysłów;powiat namysłowski;16879;opolskie
+511;21 km²;Krapkowice;powiat krapkowicki;15355;opolskie
+512;149 km²;Opole;powiat Opole;126300;opolskie
+513;6,8 km²;Głuchołazy;powiat nyski;12745;opolskie
+514;12,5 km²;Głubczyce;powiat głubczycki;11694;opolskie
+515;12,4 km²;Zdzieszowice;powiat krapkowicki;10211;opolskie
+516;14,8 km²;Ujazd;powiat strzelecki;1798;opolskie
+517;10,2 km²;Korfantów;powiat nyski;1689;opolskie
+518;-;Strzeleczki;powiat krapkowicki;1539;opolskie
+519;-;Bircza;powiat przemyski;987;podkarpackie
+520;2,4 km²;Dubiecko;powiat przemyski;806;podkarpackie
+521;8 km²;Kolbuszowa;powiat kolbuszowski;8524;podkarpackie
+522;16,8 km²;Ustrzyki Dolne;powiat bieszczadzki;8475;podkarpackie
+523;13,9 km²;Strzyżów;powiat strzyżowski;8431;podkarpackie
+524;11,5 km²;Brzozów;powiat brzozowski;7185;podkarpackie
+525;36,6 km²;Rudnik nad Sanem;powiat niżański;6431;podkarpackie
+526;9,1 km²;Boguchwała;powiat rzeszowski;6258;podkarpackie
+527;24,6 km²;Dynów;powiat rzeszowski;6017;podkarpackie
+528;46,9 km²;Mielec;powiat mielecki;57121;podkarpackie
+529;46,2 km²;Przemyśl;powiat Przemyśl;56466;podkarpackie
+530;82,5 km²;Stalowa Wola;powiat stalowowolski;55500;podkarpackie
+531;10,6 km²;Jedlicze;powiat krośnieński;5533;podkarpackie
+532;9,2 km²;Nowa Sarzyna;powiat leżajski;5450;podkarpackie
+533;15,3 km²;Lesko;powiat leski;5148;podkarpackie
+534;44,7 km²;Krosno;powiat Krosno;44198;podkarpackie
+535;85,4 km²;Tarnobrzeg;powiat Tarnobrzeg;44012;podkarpackie
+536;33,8 km²;Dębica;powiat dębicki;43086;podkarpackie
+537;13,6 km²;Radymno;powiat jarosławski;4984;podkarpackie
+538;16 km²;Pilzno;powiat dębicki;4982;podkarpackie
+539;22,5 km²;Zagórz;powiat sanocki;4954;podkarpackie
+540;9,7 km²;Tyczyn;powiat rzeszowski;4516;podkarpackie
+541;15,6 km²;Sokołów Małopolski;powiat rzeszowski;4316;podkarpackie
+542;34,6 km²;Jarosław;powiat jarosławski;35475;podkarpackie
+543;39,2 km²;Sanok;powiat sanocki;34504;podkarpackie
+544;36,5 km²;Jasło;powiat jasielski;32936;podkarpackie
+545;19,9 km²;Pruchnik;powiat jarosławski;3638;podkarpackie
+546;12,4 km²;Rymanów;powiat krośnieński;3556;podkarpackie
+547;8,8 km²;Radomyśl Wielki;powiat mielecki;3392;podkarpackie
+548;7,5 km²;Kańczuga;powiat przeworski;2912;podkarpackie
+549;5,1 km²;Oleszyce;powiat lubaczowski;2822;podkarpackie
+550;11,6 km²;Zaklików;powiat stalowowolski;2777;podkarpackie
+551;8,8 km²;Brzostek;powiat dębicki;2691;podkarpackie
+552;4,2 km²;Błażowa;powiat rzeszowski;2089;podkarpackie
+553;6,7 km²;Sieniawa;powiat przeworski;2009;podkarpackie
+554;129 km²;Rzeszów;powiat Rzeszów;197536;podkarpackie
+555;19,4 km²;Łańcut;powiat łańcucki;17626;podkarpackie
+556;47,1 km²;Ropczyce;powiat ropczycko-sędziszowski;15828;podkarpackie
+557;22,1 km²;Przeworsk;powiat przeworski;14597;podkarpackie
+558;61 km²;Nisko;powiat niżański;14532;podkarpackie
+559;20,6 km²;Leżajsk;powiat leżajski;12733;podkarpackie
+560;37 km²;Sędziszów Małopolski;powiat ropczycko-sędziszowski;12376;podkarpackie
+561;25,7 km²;Lubaczów;powiat lubaczowski;11354;podkarpackie
+562;38,2 km²;Głogów Małopolski;powiat rzeszowski;10487;podkarpackie
+563;16,7 km²;Nowa Dęba;powiat tarnobrzeski;10397;podkarpackie
+564;12,4 km²;Narol;powiat lubaczowski;1997;podkarpackie
+565;5,6 km²;Dukla;powiat krośnieński;1971;podkarpackie
+566;15,1 km²;Cieszanów;powiat lubaczowski;1830;podkarpackie
+567;16 km²;Przecław;powiat mielecki;1817;podkarpackie
+568;5,9 km²;Iwonicz-Zdrój;powiat krośnieński;1552;podkarpackie
+569;9,2 km²;Baranów Sandomierski;powiat tarnobrzeski;1398;podkarpackie
+570;7,2 km²;Kołaczyce;powiat jasielski;1384;podkarpackie
+571;8,2 km²;Ulanów;powiat niżański;1363;podkarpackie
+572;-;Jawornik Polski;powiat przeworski;1190;podkarpackie
+573;33,9 km²;Suraż;powiat białostocki;974;podlaskie
+574;25,1 km²;Kolno;powiat kolneński;9871;podlaskie
+575;7,7 km²;Mońki;powiat moniecki;9468;podlaskie
+576;15,2 km²;Wysokie Mazowieckie;powiat wysokomazowiecki;9001;podlaskie
+577;14,3 km²;Czarna Białostocka;powiat białostocki;8644;podlaskie
+578;65,5 km²;Suwałki;powiat Suwałki;68434;podlaskie
+579;16,8 km²;Choroszcz;powiat białostocki;6069;podlaskie
+580;32,7 km²;Łomża;powiat Łomża;59965;podlaskie
+581;22,6 km²;Dąbrowa Białostocka;powiat sokólski;5026;podlaskie
+582;4,5 km²;Sejny;powiat sejneński;4935;podlaskie
+583;19,5 km²;Ciechanowiec;powiat wysokomazowiecki;4388;podlaskie
+584;5,7 km²;Supraśl;powiat białostocki;4366;podlaskie
+585;32,4 km²;Brańsk;powiat bielski;3523;podlaskie
+586;13,2 km²;Szczuczyn;powiat grajewski;3159;podlaskie
+587;102,1 km²;Białystok;powiat Białystok;292058;podlaskie
+588;80,9 km²;Augustów;powiat augustowski;29108;podlaskie
+589;27 km²;Bielsk Podlaski;powiat bielski;23932;podlaskie
+590;19 km²;Grajewo;powiat grajewski;20983;podlaskie
+591;19 km²;Zambrów;powiat zambrowski;20944;podlaskie
+592;2,2 km²;Michałowo;powiat białostocki;2770;podlaskie
+593;23,7 km²;Knyszyn;powiat moniecki;2642;podlaskie
+594;5,2 km²;Czyżew;powiat wysokomazowiecki;2501;podlaskie
+595;14,3 km²;Zabłudów;powiat białostocki;2489;podlaskie
+596;3,8 km²;Krynki;powiat sokólski;2156;podlaskie
+597;20,6 km²;Nowogród;powiat łomżyński;2099;podlaskie
+598;5 km²;Lipsk;powiat augustowski;2080;podlaskie
+599;26 km²;Suchowola;powiat sokólski;2051;podlaskie
+600;2,8 km²;Szepietowo;powiat wysokomazowiecki;2016;podlaskie
+601;13,2 km²;Stawiski;powiat kolneński;2015;podlaskie
+602;21,3 km²;Hajnówka;powiat hajnowski;19056;podlaskie
+603;18,7 km²;Sokółka;powiat sokólski;17168;podlaskie
+604;12,1 km²;Łapy;powiat białostocki;14504;podlaskie
+605;36,3 km²;Siemiatycze;powiat siemiatycki;13421;podlaskie
+606;28,3 km²;Wasilków;powiat białostocki;12655;podlaskie
+607;29 km²;Tykocin;powiat białostocki;1866;podlaskie
+608;15,7 km²;Drohiczyn;powiat siemiatycki;1771;podlaskie
+609;4,3 km²;Goniądz;powiat moniecki;1721;podlaskie
+610;4,5 km²;Jedwabne;powiat łomżyński;1688;podlaskie
+611;35,2 km²;Rajgród;powiat grajewski;1407;podlaskie
+612;46,7 km²;Kleszczele;powiat hajnowski;1066;podlaskie
+613;9,7 km²;Czersk;powiat chojnicki;9894;pomorskie
+614;5,1 km²;Nowy Dwór Gdański;powiat nowodworski;9499;pomorskie
+615;5,7 km²;Miastko;powiat bytowski;9455;pomorskie
+616;33,4 km²;Władysławowo;powiat pucki;9295;pomorskie
+617;4,6 km²;Sztum;powiat sztumski;9175;pomorskie
+618;52,7 km²;Słupsk;powiat Słupsk;86027;pomorskie
+619;7,3 km²;Prabuty;powiat kwidzyński;8156;pomorskie
+620;4,4 km²;Pelplin;powiat tczewski;7206;pomorskie
+621;4,7 km²;Żukowo;powiat kartuski;6714;pomorskie
+622;10,8 km²;Skarszewy;powiat starogardzki;6656;pomorskie
+623;6 km²;Gniew;powiat tczewski;6181;pomorskie
+624;22,4 km²;Tczew;powiat tczewski;57218;pomorskie
+625;30,1 km²;Rumia;powiat wejherowski;52931;pomorskie
+626;46,5 km²;Czarne;powiat człuchowski;5611;pomorskie
+627;5,2 km²;Brusy;powiat chojnicki;5103;pomorskie
+628;683 km²;Gdańsk;powiat Gdańsk;486492;pomorskie
+629;27 km²;Wejherowo;powiat wejherowski;46271;pomorskie
+630;25,3 km²;Starogard Gdański;powiat starogardzki;45437;pomorskie
+631;3,9 km²;Dzierzgoń;powiat sztumski;4962;pomorskie
+632;7,5 km²;Debrzno;powiat człuchowski;4868;pomorskie
+633;21 km²;Chojnice;powiat chojnicki;38789;pomorskie
+634;21,5 km²;Kwidzyn;powiat kwidzyński;37011;pomorskie
+635;17,2 km²;Malbork;powiat malborski;36938;pomorskie
+636;17,9 km²;Lębork;powiat lęborski;34081;pomorskie
+637;27,8 km²;Sopot;powiat Sopot;32115;pomorskie
+638;16,5 km²;Pruszcz Gdański;powiat gdański;32093;pomorskie
+639;4,9 km²;Nowy Staw;powiat malborski;3986;pomorskie
+640;3,6 km²;Skórcz;powiat starogardzki;3438;pomorskie
+641;6,1 km²;Kępice;powiat słupski;3275;pomorskie
+642;16,6 km²;Łeba;powiat lęborski;3064;pomorskie
+643;33,5 km²;Reda;powiat wejherowski;28588;pomorskie
+644;391,5 km²;Gdynia;powiat Gdynia;242141;pomorskie
+645;15,9 km²;Kościerzyna;powiat kościerski;23327;pomorskie
+646;95,4 km²;Hel;powiat pucki;2805;pomorskie
+647;9,9 km²;Czarna Woda;powiat starogardzki;2657;pomorskie
+648;5,1 km²;Jastarnia;powiat pucki;2608;pomorskie
+649;8,7 km²;Bytów;powiat bytowski;16448;pomorskie
+650;6,8 km²;Kartuzy;powiat kartuski;13902;pomorskie
+651;11,1 km²;Ustka;powiat słupski;13828;pomorskie
+652;12,8 km²;Człuchów;powiat człuchowski;13106;pomorskie
+653;16,9 km²;Puck;powiat pucki;10555;pomorskie
+654;119 km²;Krynica Morska;powiat nowodworski;1172;pomorskie
+655;28 km²;Imielin;powiat bieruńsko-lędziński;9432;śląskie
+656;36,7 km²;Blachownia;powiat częstochowski;9070;śląskie
+657;152,4 km²;Jaworzno;powiat Jaworzno;87166;śląskie
+658;85,3 km²;Jastrzębie-Zdrój;powiat Jastrzębie-Zdrój;82788;śląskie
+659;12,8 km²;Wojkowice;powiat będziński;8507;śląskie
+660;76,4 km²;Kalety;powiat tarnogórski;8196;śląskie
+661;40 km²;Poręba;powiat zawierciański;8143;śląskie
+662;65,7 km²;Mysłowice;powiat Mysłowice;71473;śląskie
+663;25,5 km²;Siemianowice Śląskie;powiat Siemianowice Śląskie;63657;śląskie
+664;64,6 km²;Żory;powiat Żory;61793;śląskie
+665;83,8 km²;Tarnowskie Góry;powiat tarnogórski;61389;śląskie
+666;67,9 km²;Miasteczko Śląskie;powiat tarnogórski;6948;śląskie
+667;36,7 km²;Sławków;powiat będziński;6871;śląskie
+668;9 km²;Łazy;powiat zawierciański;6414;śląskie
+669;37,4 km²;Będzin;powiat będziński;54061;śląskie
+670;39,9 km²;Piekary Śląskie;powiat Piekary Śląskie;51876;śląskie
+671;38,7 km²;Siewierz;powiat będziński;5714;śląskie
+672;36,9 km²;Koniecpol;powiat częstochowski;5404;śląskie
+673;39,3 km²;Szczyrk;powiat bielski;5322;śląskie
+674;75 km²;Racibórz;powiat raciborski;49883;śląskie
+675;85,3 km²;Zawiercie;powiat zawierciański;46433;śląskie
+676;13,3 km²;Świętochłowice;powiat Świętochłowice;45644;śląskie
+677;49,5 km²;Wodzisław Śląski;powiat wodzisławski;44982;śląskie
+678;79,2 km²;Mikołów;powiat mikołowski;41479;śląskie
+679;31,5 km²;Kuźnia Raciborska;powiat raciborski;4644;śląskie
+680;25,5 km²;Żarki;powiat myszkowski;4360;śląskie
+681;70,7 km²;Woźniki;powiat lubliniecki;4120;śląskie
+682;27,7 km²;Krzepice;powiat kłobucki;4109;śląskie
+683;28,6 km²;Ogrodzieniec;powiat zawierciański;4107;śląskie
+684;33,9 km²;Knurów;powiat gliwicki;35739;śląskie
+685;32,9 km²;Czechowice-Dziedzice;powiat bielski;34862;śląskie
+686;28,6 km²;Cieszyn;powiat cieszyński;33087;śląskie
+687;6,3 km²;Strumień;powiat cieszyński;3534;śląskie
+688;9,7 km²;Toszek;powiat gliwicki;3492;śląskie
+689;18 km²;Szczekociny;powiat zawierciański;3363;śląskie
+690;10,4 km²;Wilamowice;powiat bielski;3169;śląskie
+691;16,4 km²;Czeladź;powiat będziński;29981;śląskie
+692;50,5 km²;Żywiec;powiat żywiecki;29723;śląskie
+693;73,6 km²;Myszków;powiat myszkowski;29560;śląskie
+694;164,7 km²;Katowice;powiat Katowice;279119;śląskie
+695;37,6 km²;Czerwionka-Leszczyny;powiat rybnicki;26614;śląskie
+696;22,3 km²;Pszczyna;powiat pszczyński;25177;śląskie
+697;89,4 km²;Lubliniec;powiat lubliniecki;23392;śląskie
+698;83,7 km²;Orzesze;powiat mikołowski;21881;śląskie
+699;20,1 km²;Łaziska Górne;powiat mikołowski;21221;śląskie
+700;159,7 km²;Częstochowa;powiat Częstochowa;207117;śląskie
+701;15 km²;Rydułtowy;powiat wodzisławski;20325;śląskie
+702;34,3 km²;Olsztyn;powiat częstochowski;2497;śląskie
+703;26,7 km²;Koziegłowy;powiat myszkowski;2386;śląskie
+704;3,1 km²;Krzanowice;powiat raciborski;2021;śląskie
+705;91,2 km²;Sosnowiec;powiat Sosnowiec;188151;śląskie
+706;40,5 km²;Bieruń;powiat bieruńsko-lędziński;18891;śląskie
+707;133,9 km²;Gliwice;powiat Gliwice;170457;śląskie
+708;31,2 km²;Pyskowice;powiat gliwicki;17178;śląskie
+709;124,5 km²;Bielsko-Biała;powiat Bielsko-Biała;166189;śląskie
+710;12,5 km²;Radlin;powiat wodzisławski;16938;śląskie
+711;31,6 km²;Lędziny;powiat bieruńsko-lędziński;16407;śląskie
+712;13,2 km²;Radzionków;powiat tarnogórski;16099;śląskie
+713;80,4 km²;Zabrze;powiat Zabrze;154642;śląskie
+714;59 km²;Ustroń;powiat cieszyński;15979;śląskie
+715;69,5 km²;Bytom;powiat Bytom;148687;śląskie
+716;148,3 km²;Rybnik;powiat Rybnik;131323;śląskie
+717;77,6 km²;Ruda Śląska;powiat Ruda Śląska;131062;śląskie
+718;9,9 km²;Skoczów;powiat cieszyński;13524;śląskie
+719;20,5 km²;Pszów;powiat wodzisławski;13041;śląskie
+720;81,8 km²;Tychy;powiat Tychy;122605;śląskie
+721;47,5 km²;Kłobuck;powiat kłobucki;12297;śląskie
+722;188,7 km²;Dąbrowa Górnicza;powiat Dąbrowa Górnicza;114148;śląskie
+723;33,3 km²;Chorzów;powiat Chorzów;101184;śląskie
+724;110,2 km²;Wisła;powiat cieszyński;10678;śląskie
+725;11,7 km²;Sośnicowice;powiat gliwicki;1965;śląskie
+726;8,2 km²;Pilica;powiat zawierciański;1769;śląskie
+727;23,5 km²;Włodowice;powiat zawierciański;1157;śląskie
+728;-;Przyrów;powiat częstochowski;1144;śląskie
+729;16,2 km²;Szydłów;powiat staszowski;972;świętokrzyskie
+730;7,9 km²;Wodzisław;powiat jędrzejowski;967;świętokrzyskie
+731;14,3 km²;Pińczów;powiat pińczowski;9784;świętokrzyskie
+732;30,3 km²;Włoszczowa;powiat włoszczowski;9587;świętokrzyskie
+733;7,5 km²;Nowy Korczyn;powiat buski;899;świętokrzyskie
+734;1,9 km²;Działoszyce;powiat pińczowski;848;świętokrzyskie
+735;59,4 km²;Suchedniów;powiat skarżyski;7537;świętokrzyskie
+736;17,4 km²;Połaniec;powiat staszowski;7478;świętokrzyskie
+737;46,4 km²;Ostrowiec Świętokrzyski;powiat ostrowiecki;62471;świętokrzyskie
+738;7,9 km²;Sędziszów;powiat jędrzejowski;6141;świętokrzyskie
+739;9,4 km²;Opatów;powiat opatowski;5942;świętokrzyskie
+740;10,9 km²;Stąporków;powiat konecki;5138;świętokrzyskie
+741;6,1 km²;Kazimierza Wielka;powiat kazimierski;5019;świętokrzyskie
+742;4,8 km²;Wiślica;powiat buski;465;świętokrzyskie
+743;31,8 km²;Starachowice;powiat starachowicki;44699;świętokrzyskie
+744;64,4 km²;Skarżysko-Kamienna;powiat skarżyski;41498;świętokrzyskie
+745;14,1 km²;Chęciny;powiat kielecki;4308;świętokrzyskie
+746;7,8 km²;Ożarów;powiat opatowski;4231;świętokrzyskie
+747;5,5 km²;Opatowiec;powiat kazimierski;313;świętokrzyskie
+748;7,8 km²;Chmielnik;powiat kielecki;3466;świętokrzyskie
+749;9,7 km²;Małogoszcz;powiat jędrzejowski;3372;świętokrzyskie
+750;28,7 km²;Sandomierz;powiat sandomierski;21417;świętokrzyskie
+751;8,5 km²;Piekoszów;powiat kielecki;2947;świętokrzyskie
+752;17,2 km²;Radoszyce;powiat konecki;2845;świętokrzyskie
+753;13,3 km²;Ćmielów;powiat ostrowiecki;2822;świętokrzyskie
+754;15,5 km²;Daleszyce;powiat kielecki;2758;świętokrzyskie
+755;7,3 km²;Kunów;powiat ostrowiecki;2715;świętokrzyskie
+756;16 km²;Wąchock;powiat starachowicki;2482;świętokrzyskie
+757;17,9 km²;Koprzywnica;powiat sandomierski;2359;świętokrzyskie
+758;8,7 km²;Bodzentyn;powiat kielecki;2103;świętokrzyskie
+759;109,7 km²;Kielce;powiat Kielce;183147;świętokrzyskie
+760;17,7 km²;Końskie;powiat konecki;17514;świętokrzyskie
+761;12,3 km²;Busko-Zdrój;powiat buski;14469;świętokrzyskie
+762;11,4 km²;Jędrzejów;powiat jędrzejowski;14167;świętokrzyskie
+763;26,9 km²;Staszów;powiat staszowski;13680;świętokrzyskie
+764;17,4 km²;Osiek;powiat staszowski;1959;świętokrzyskie
+765;4,4 km²;Morawica;powiat kielecki;1767;świętokrzyskie
+766;4,7 km²;Klimontów;powiat sandomierski;1762;świętokrzyskie
+767;10,1 km²;Oleśnica;powiat staszowski;1722;świętokrzyskie
+768;20,3 km²;Zawichost;powiat sandomierski;1608;świętokrzyskie
+769;8,2 km²;Łagów;powiat kielecki;1531;świętokrzyskie
+770;5,2 km²;Łopuszno;powiat kielecki;1426;świętokrzyskie
+771;-;Gowarczów;powiat konecki;1343;świętokrzyskie
+772;14 km²;Nowa Słupia;powiat kielecki;1295;świętokrzyskie
+773;6,9 km²;Pierzchnica;powiat kielecki;1251;świętokrzyskie
+774;6 km²;Iwaniska;powiat opatowski;1225;świętokrzyskie
+775;7,1 km²;Skalbmierz;powiat kazimierski;1202;świętokrzyskie
+776;4,6 km²;Stopnica;powiat buski;1138;świętokrzyskie
+777;-;Bogoria;powiat staszowski;1093;świętokrzyskie
+778;7,1 km²;Pacanów;powiat buski;1038;świętokrzyskie
+779;5 km²;Biskupiec;powiat olsztyński;9999;warmińsko-mazurskie
+780;4,9 km²;Dobre Miasto;powiat olsztyński;9320;warmińsko-mazurskie
+781;9,6 km²;Orneta;powiat lidzbarski;8049;warmińsko-mazurskie
+782;4,6 km²;Barczewo;powiat olsztyński;7396;warmińsko-mazurskie
+783;5,7 km²;Lidzbark;powiat działdowski;7256;warmińsko-mazurskie
+784;7,7 km²;Olsztynek;powiat olsztyński;7199;warmińsko-mazurskie
+785;21,1 km²;Ełk;powiat ełcki;59942;warmińsko-mazurskie
+786;8,2 km²;Orzysz;powiat piski;5305;warmińsko-mazurskie
+787;6,7 km²;Susz;powiat iławski;5235;warmińsko-mazurskie
+788;17,1 km²;Ruciane-Nida;powiat piski;4094;warmińsko-mazurskie
+789;3,8 km²;Reszel;powiat kętrzyński;4071;warmińsko-mazurskie
+790;21,9 km²;Iława;powiat iławski;32245;warmińsko-mazurskie
+791;14,2 km²;Ostróda;powiat ostródzki;31432;warmińsko-mazurskie
+792;4 km²;Korsze;powiat kętrzyński;3966;warmińsko-mazurskie
+793;3,2 km²;Biała Piska;powiat piski;3705;warmińsko-mazurskie
+794;3,3 km²;Górowo Iławeckie;powiat bartoszycki;3642;warmińsko-mazurskie
+795;9,3 km²;Mikołajki;powiat mrągowski;3388;warmińsko-mazurskie
+796;13,7 km²;Giżycko;powiat giżycki;27438;warmińsko-mazurskie
+797;10,4 km²;Kętrzyn;powiat kętrzyński;25296;warmińsko-mazurskie
+798;10 km²;Szczytno;powiat szczycieński;21979;warmińsko-mazurskie
+799;11,8 km²;Bartoszyce;powiat bartoszycki;21497;warmińsko-mazurskie
+800;14,8 km²;Mrągowo;powiat mrągowski;20702;warmińsko-mazurskie
+801;11,5 km²;Działdowo;powiat działdowski;20279;warmińsko-mazurskie
+802;3,4 km²;Jeziorany;powiat olsztyński;2990;warmińsko-mazurskie
+803;18,3 km²;Wielbark;powiat szczycieński;2974;warmińsko-mazurskie
+804;4,1 km²;Ryn;powiat giżycki;2691;warmińsko-mazurskie
+805;3,8 km²;Pieniężno;powiat braniewski;2427;warmińsko-mazurskie
+806;12,4 km²;Miłomłyn;powiat ostródzki;2419;warmińsko-mazurskie
+807;8,8 km²;Miłakowo;powiat ostródzki;2412;warmińsko-mazurskie
+808;2,3 km²;Tolkmicko;powiat elbląski;2397;warmińsko-mazurskie
+809;15,2 km²;Pasym;powiat szczycieński;2375;warmińsko-mazurskie
+810;2,2 km²;Bisztynek;powiat bartoszycki;2179;warmińsko-mazurskie
+811;7,6 km²;Frombork;powiat braniewski;2071;warmińsko-mazurskie
+812;8,2 km²;Zalewo;powiat iławski;2024;warmińsko-mazurskie
+813;3,4 km²;Kisielice;powiat iławski;2023;warmińsko-mazurskie
+814;10,1 km²;Pisz;powiat piski;17754;warmińsko-mazurskie
+815;88,3 km²;Olsztyn;powiat Olsztyn;167844;warmińsko-mazurskie
+816;12,4 km²;Braniewo;powiat braniewski;16173;warmińsko-mazurskie
+817;11,5 km²;Olecko;powiat olecki;15772;warmińsko-mazurskie
+818;14,4 km²;Lidzbark Warmiński;powiat lidzbarski;14567;warmińsko-mazurskie
+819;17,2 km²;Gołdap;powiat gołdapski;13229;warmińsko-mazurskie
+820;6,1 km²;Morąg;powiat ostródzki;12934;warmińsko-mazurskie
+821;6,9 km²;Nidzica;powiat nidzicki;12665;warmińsko-mazurskie
+822;79,8 km²;Elbląg;powiat Elbląg;113195;warmińsko-mazurskie
+823;11,4 km²;Pasłęk;powiat elbląski;11820;warmińsko-mazurskie
+824;10,9 km²;Węgorzewo;powiat węgorzewski;10612;warmińsko-mazurskie
+825;16,8 km²;Lubawa;powiat iławski;10602;warmińsko-mazurskie
+826;11,4 km²;Nowe Miasto Lubawskie;powiat nowomiejski;10175;warmińsko-mazurskie
+827;4,6 km²;Sępopol;powiat bartoszycki;1880;warmińsko-mazurskie
+828;2,8 km²;Młynary;powiat elbląski;1677;warmińsko-mazurskie
+829;69,4 km²;Kalisz;powiat Kalisz;93681;wielkopolskie
+830;10,2 km²;Czarnków;powiat czarnkowsko-trzcianecki;9992;wielkopolskie
+831;8 km²;Kostrzyn;powiat poznański;9860;wielkopolskie
+832;10,2 km²;Pobiedziska;powiat poznański;9843;wielkopolskie
+833;6,4 km²;Opalenica;powiat nowotomyski;9319;wielkopolskie
+834;16,4 km²;Puszczykowo;powiat poznański;9316;wielkopolskie
+835;72,3 km²;Jastrowie;powiat złotowski;8294;wielkopolskie
+836;6 km²;Kórnik;powiat poznański;8150;wielkopolskie
+837;9,3 km²;Pniewy;powiat szamotulski;8114;wielkopolskie
+838;102,7 km²;Piła;powiat pilski;70361;wielkopolskie
+839;8,3 km²;Witkowo;powiat gnieźnieński;7467;wielkopolskie
+840;5,5 km²;Trzemeszno;powiat gnieźnieński;7305;wielkopolskie
+841;5,4 km²;Zbąszyń;powiat nowotomyski;7074;wielkopolskie
+842;41,9 km²;Ostrów Wielkopolski;powiat ostrowski;69477;wielkopolskie
+843;82,3 km²;Konin;powiat Konin;67596;wielkopolskie
+844;40,6 km²;Gniezno;powiat gnieźnieński;63932;wielkopolskie
+845;31,9 km²;Leszno;powiat Leszno;60313;wielkopolskie
+846;5,9 km²;Koźmin Wielkopolski;powiat krotoszyński;6130;wielkopolskie
+847;261,9 km²;Poznań;powiat Poznań;540146;wielkopolskie
+848;5,8 km²;Krzyż Wielkopolski;powiat czarnkowsko-trzcianecki;5915;wielkopolskie
+849;5,7 km²;Stęszew;powiat poznański;5905;wielkopolskie
+850;4,3 km²;Kłodawa;powiat kolski;5890;wielkopolskie
+851;14,1 km²;Sieraków;powiat międzychodzki;5812;wielkopolskie
+852;4,6 km²;Wieleń;powiat czarnkowsko-trzcianecki;5718;wielkopolskie
+853;5,3 km²;Śmigiel;powiat kościański;5571;wielkopolskie
+854;3 km²;Buk;powiat poznański;5537;wielkopolskie
+855;3,6 km²;Czempiń;powiat kościański;5127;wielkopolskie
+856;4,1 km²;Wyrzysk;powiat pilski;5088;wielkopolskie
+857;4,8 km²;Odolanów;powiat ostrowski;4955;wielkopolskie
+858;11,2 km²;Skoki;powiat wągrowiecki;4755;wielkopolskie
+859;40,6 km²;Budzyń;powiat chodzieski;4650;wielkopolskie
+860;1,6 km²;Nowe Skalmierzyce;powiat ostrowski;4631;wielkopolskie
+861;7,1 km²;Krobia;powiat gostyński;4495;wielkopolskie
+862;6,2 km²;Zduny;powiat krotoszyński;4340;wielkopolskie
+863;3,5 km²;Golina;powiat koniński;4321;wielkopolskie
+864;13,5 km²;Luboń;powiat poznański;32801;wielkopolskie
+865;12,7 km²;Września;powiat wrzesiński;31769;wielkopolskie
+866;4,7 km²;Szamocin;powiat chodzieski;3906;wielkopolskie
+867;7,8 km²;Kleczew;powiat koniński;3899;wielkopolskie
+868;19,8 km²;Nekla;powiat wrzesiński;3829;wielkopolskie
+869;6 km²;Okonek;powiat złotowski;3651;wielkopolskie
+870;3,4 km²;Rakoniewice;powiat grodziski;3621;wielkopolskie
+871;3,8 km²;Krajenka;powiat złotowski;3514;wielkopolskie
+872;8,7 km²;Opatówek;powiat kaliski;3508;wielkopolskie
+873;4,5 km²;Miłosław;powiat wrzesiński;3428;wielkopolskie
+874;5,8 km²;Ujście;powiat pilski;3385;wielkopolskie
+875;6,2 km²;Sompolno;powiat koniński;3341;wielkopolskie
+876;4,9 km²;Kobylin;powiat krotoszyński;3192;wielkopolskie
+877;12,6 km²;Gołańcz;powiat wągrowiecki;3191;wielkopolskie
+878;7,2 km²;Ślesin;powiat koniński;3106;wielkopolskie
+879;3,1 km²;Miejska Górka;powiat rawicki;3083;wielkopolskie
+880;7 km²;Tuliszków;powiat turecki;3052;wielkopolskie
+881;8,2 km²;Swarzędz;powiat poznański;28392;wielkopolskie
+882;22,5 km²;Krotoszyn;powiat krotoszyński;28231;wielkopolskie
+883;12,4 km²;Śrem;powiat śremski;28060;wielkopolskie
+884;22,2 km²;Jarocin;powiat jarociński;26316;wielkopolskie
+885;17,8 km²;Wągrowiec;powiat wągrowiecki;25409;wielkopolskie
+886;16,2 km²;Turek;powiat turecki;24659;wielkopolskie
+887;22 km²;Środa Wielkopolska;powiat średzki;24364;wielkopolskie
+888;9 km²;Kościan;powiat kościański;23501;wielkopolskie
+889;5,2 km²;Margonin;powiat chodzieski;2989;wielkopolskie
+890;12,2 km²;Pyzdry;powiat wrzesiński;2958;wielkopolskie
+891;19,8 km²;Dobrzyca;powiat pleszewski;2935;wielkopolskie
+892;3,2 km²;Lwówek;powiat nowotomyski;2931;wielkopolskie
+893;3,9 km²;Poniec;powiat gostyński;2912;wielkopolskie
+894;2,2 km²;Rydzyna;powiat leszczyński;2905;wielkopolskie
+895;2,3 km²;Bojanowo;powiat rawicki;2802;wielkopolskie
+896;3,3 km²;Łobżenica;powiat pilski;2799;wielkopolskie
+897;16,5 km²;Kaczory;powiat pilski;2783;wielkopolskie
+898;3,4 km²;Zagórów;powiat słupecki;2755;wielkopolskie
+899;29,2 km²;Sulmierzyce;powiat krotoszyński;2744;wielkopolskie
+900;5,7 km²;Książ Wielkopolski;powiat śremski;2557;wielkopolskie
+901;10,2 km²;Czerniejewo;powiat gnieźnieński;2549;wielkopolskie
+902;9,6 km²;Kłecko;powiat gnieźnieński;2527;wielkopolskie
+903;4,8 km²;Wysoka;powiat pilski;2515;wielkopolskie
+904;4,8 km²;Osieczna;powiat leszczyński;2448;wielkopolskie
+905;6,3 km²;Borek Wielkopolski;powiat gostyński;2440;wielkopolskie
+906;3,7 km²;Obrzycko;powiat szamotulski;2383;wielkopolskie
+907;9,7 km²;Rychwał;powiat koniński;2366;wielkopolskie
+908;-;Mieścisko;powiat wągrowiecki;2362;wielkopolskie
+909;2,1 km²;Raszków;powiat ostrowski;2092;wielkopolskie
+910;2,2 km²;Żerków;powiat jarociński;2086;wielkopolskie
+911;4,4 km²;Pogorzela;powiat gostyński;2029;wielkopolskie
+912;11,1 km²;Gostyń;powiat gostyński;19932;wielkopolskie
+913;8,9 km²;Rawicz;powiat rawicki;19805;wielkopolskie
+914;13,9 km²;Koło;powiat kolski;19555;wielkopolskie
+915;11,1 km²;Szamotuły;powiat szamotulski;18342;wielkopolskie
+916;11,6 km²;Złotów;powiat złotowski;18193;wielkopolskie
+917;12,8 km²;Chodzież;powiat chodzieski;17489;wielkopolskie
+918;14,1 km²;Oborniki;powiat obornicki;17305;wielkopolskie
+919;13,4 km²;Pleszew;powiat pleszewski;16599;wielkopolskie
+920;18,3 km²;Trzcianka;powiat czarnkowsko-trzcianecki;16496;wielkopolskie
+921;18,2 km²;Grodzisk Wielkopolski;powiat grodziski;15140;wielkopolskie
+922;13,5 km²;Mosina;powiat poznański;14460;wielkopolskie
+923;5,2 km²;Nowy Tomyśl;powiat nowotomyski;13702;wielkopolskie
+924;12,1 km²;Ostrzeszów;powiat ostrzeszowski;13687;wielkopolskie
+925;7,8 km²;Kępno;powiat kępiński;13618;wielkopolskie
+926;10,3 km²;Słupca;powiat słupecki;13025;wielkopolskie
+927;4,8 km²;Wolsztyn;powiat wolsztyński;12012;wielkopolskie
+928;11,2 km²;Rogoźno;powiat obornicki;10817;wielkopolskie
+929;5,8 km²;Wronki;powiat szamotulski;10512;wielkopolskie
+930;8,6 km²;Murowana Goślina;powiat poznański;10268;wielkopolskie
+931;7 km²;Międzychód;powiat międzychodzki;10033;wielkopolskie
+932;2,6 km²;Grabów nad Prosną;powiat ostrzeszowski;1901;wielkopolskie
+933;1,6 km²;Jutrosin;powiat rawicki;1871;wielkopolskie
+934;1,3 km²;Ostroróg;powiat szamotulski;1845;wielkopolskie
+935;6 km²;Koźminek;powiat kaliski;1835;wielkopolskie
+936;8,8 km²;Dąbie;powiat kolski;1716;wielkopolskie
+937;2,5 km²;Mikstat;powiat ostrzeszowski;1696;wielkopolskie
+938;1,2 km²;Wielichowo;powiat grodziski;1671;wielkopolskie
+939;2,3 km²;Krzywiń;powiat kościański;1664;wielkopolskie
+940;6,9 km²;Chocz;powiat pleszewski;1635;wielkopolskie
+941;6,2 km²;Dolsk;powiat śremski;1571;wielkopolskie
+942;3 km²;Przedecz;powiat kolski;1516;wielkopolskie
+943;10,1 km²;Jaraczewo;powiat jarociński;1373;wielkopolskie
+944;1 km²;Stawiszyn;powiat kaliski;1364;wielkopolskie
+945;-;Rychtal;powiat kępiński;1347;wielkopolskie
+946;1,8 km²;Dobra;powiat turecki;1341;wielkopolskie
+947;2 km²;Miasteczko Krajeńskie;powiat pilski;1079;wielkopolskie
+948;12,9 km²;Łobez;powiat łobeski;9534;zachodniopomorskie
+949;10,3 km²;Trzebiatów;powiat gryficki;9388;zachodniopomorskie
+950;10,7 km²;Kamień Pomorski;powiat kamieński;8330;zachodniopomorskie
+951;13,5 km²;Chojna;powiat gryfiński;7339;zachodniopomorskie
+952;7,2 km²;Połczyn-Zdrój;powiat świdwiński;7310;zachodniopomorskie
+953;48,1 km²;Stargard;powiat stargardzki;66816;zachodniopomorskie
+954;13,6 km²;Czaplinek;powiat drawski;6699;zachodniopomorskie
+955;15,9 km²;Sianów;powiat koszaliński;6498;zachodniopomorskie
+956;9,4 km²;Karlino;powiat białogardzki;5480;zachodniopomorskie
+957;27,4 km²;Kołobrzeg;powiat kołobrzeski;43614;zachodniopomorskie
+958;5,2 km²;Międzyzdroje;powiat kamieński;4928;zachodniopomorskie
+959;18,2 km²;Borne Sulinowo;powiat szczecinecki;4896;zachodniopomorskie
+960;14,5 km²;Wolin;powiat kamieński;4682;zachodniopomorskie
+961;12 km²;Kalisz Pomorski;powiat drawski;4042;zachodniopomorskie
+962;300,6 km²;Szczecin;powiat Szczecin;390278;zachodniopomorskie
+963;202,1 km²;Świnoujście;powiat Świnoujście;39189;zachodniopomorskie
+964;48,5 km²;Szczecinek;powiat szczecinecki;37701;zachodniopomorskie
+965;4,5 km²;Resko;powiat łobeski;3908;zachodniopomorskie
+966;7 km²;Lipiany;powiat pyrzycki;3810;zachodniopomorskie
+967;4,8 km²;Bobolice;powiat koszaliński;3757;zachodniopomorskie
+968;4,1 km²;Płoty;powiat gryficki;3713;zachodniopomorskie
+969;7,5 km²;Barwice;powiat szczecinecki;3472;zachodniopomorskie
+970;5,3 km²;Mieszkowice;powiat gryfiński;3357;zachodniopomorskie
+971;5,5 km²;Maszewo;powiat goleniowski;3307;zachodniopomorskie
+972;37,3 km²;Police;powiat policki;29827;zachodniopomorskie
+973;38,2 km²;Wałcz;powiat wałecki;23691;zachodniopomorskie
+974;25,7 km²;Białogard;powiat białogardzki;22561;zachodniopomorskie
+975;11,8 km²;Goleniów;powiat goleniowski;21605;zachodniopomorskie
+976;2,4 km²;Mirosławiec;powiat wałecki;2999;zachodniopomorskie
+977;3,7 km²;Chociwel;powiat stargardzki;2991;zachodniopomorskie
+978;7,4 km²;Polanów;powiat koszaliński;2824;zachodniopomorskie
+979;33,6 km²;Mielno;powiat koszaliński;2753;zachodniopomorskie
+980;5,7 km²;Gościno;powiat kołobrzeski;2701;zachodniopomorskie
+981;12,4 km²;Recz;powiat choszczeński;2647;zachodniopomorskie
+982;6,9 km²;Węgorzyno;powiat łobeski;2632;zachodniopomorskie
+983;7,4 km²;Golczewo;powiat kamieński;2502;zachodniopomorskie
+984;3,4 km²;Stepnica;powiat goleniowski;2486;zachodniopomorskie
+985;13,1 km²;Pełczyce;powiat choszczeński;2414;zachodniopomorskie
+986;3,9 km²;Tychowo;powiat białogardzki;2354;zachodniopomorskie
+987;6,5 km²;Dziwnów;powiat kamieński;2320;zachodniopomorskie
+988;5,3 km²;Dobrzany;powiat stargardzki;2183;zachodniopomorskie
+989;5 km²;Drawno;powiat choszczeński;2166;zachodniopomorskie
+990;6,3 km²;Człopa;powiat wałecki;2163;zachodniopomorskie
+991;2,3 km²;Trzcińsko-Zdrój;powiat gryfiński;2125;zachodniopomorskie
+992;12,8 km²;Biały Bór;powiat szczecinecki;2089;zachodniopomorskie
+993;2,4 km²;Dobra;powiat łobeski;2025;zachodniopomorskie
+994;11,8 km²;Gryfino;powiat gryfiński;19845;zachodniopomorskie
+995;12,6 km²;Nowogard;powiat goleniowski;15748;zachodniopomorskie
+996;12,4 km²;Gryfice;powiat gryficki;15472;zachodniopomorskie
+997;22,4 km²;Świdwin;powiat świdwiński;14605;zachodniopomorskie
+998;9,6 km²;Choszczno;powiat choszczeński;13986;zachodniopomorskie
+999;17,6 km²;Barlinek;powiat myśliborski;13049;zachodniopomorskie
+1000;19,5 km²;Dębno;powiat myśliborski;12947;zachodniopomorskie
+1001;20,2 km²;Darłowo;powiat sławieński;12643;zachodniopomorskie
+1002;32,3 km²;Złocieniec;powiat drawski;12106;zachodniopomorskie
+1003;38,8 km²;Pyrzyce;powiat pyrzycki;11873;zachodniopomorskie
+1004;15,8 km²;Sławno;powiat sławieński;11839;zachodniopomorskie
+1005;22,3 km²;Drawsko Pomorskie;powiat drawski;11248;zachodniopomorskie
+1006;105,6 km²;Koszalin;powiat Koszalin;105905;zachodniopomorskie
+1007;15 km²;Myślibórz;powiat myśliborski;10358;zachodniopomorskie
+1008;9,2 km²;Tuczno;powiat wałecki;1788;zachodniopomorskie
+1009;7,5 km²;Ińsko;powiat stargardzki;1781;zachodniopomorskie
+1010;5,5 km²;Moryń;powiat gryfiński;1623;zachodniopomorskie
+1011;2,6 km²;Cedynia;powiat gryfiński;1473;zachodniopomorskie
+1012;3,6 km²;Suchań;powiat stargardzki;1401;zachodniopomorskie
+1013;24,5 km²;Nowe Warpno;powiat policki;1064;zachodniopomorskie
