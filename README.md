@@ -2,9 +2,9 @@
 
 ## Project Screenshots
 
-<br>![01_acq](https://github.com/user-attachments/assets/4c0da2ca-7c86-4bb2-b3a3-6c2682bd4ee3)
-![02_det](https://github.com/user-attachments/assets/764cd988-5286-47f9-9c51-089be06c902c)
-![image](https://github.com/user-attachments/assets/9bd75280-5989-4a57-ac41-eeb07caaaf1c)
+<br>![01_acquisition_overview.jpg](screenshots/01_acquisition_overview.jpg)
+![02_detailed_trends.jpg](screenshots/02_detailed_trends.jpg)
+![03_retention_and_lifetime_value.jpg](screenshots/03_retention_and_lifetime_value.jpg)
 
 ## Data Sources & Tools
 - **Data**:
@@ -64,7 +64,7 @@ I created a new table, **acquisition**, to show counts and percentage changes of
 #### Yearly Difference Calculation (06_yty_change.sql)
 Finally, I calculated the year-by-year difference in new donor counts, again to compare with Power BI metrics later.
 
-![06_sql](https://github.com/user-attachments/assets/f2feeac6-9835-4386-ba63-a74153490a83)
+![06_yty_change.jpg](screenshots/06_yty_change.jpg)
 
 </details>
 
@@ -110,7 +110,7 @@ DonorLifespanInYears = IF(DonorSummary[Donor_Status] = "Active",
 DonationFrequencyInDays = ROUND(DATEDIFF(DonorSummary[First_Donation], DonorSummary[Last_Donation], DAY) / DonorSummary[Donation_Count], 0)
 ```
 
-![donorsummary_powerbi](https://github.com/user-attachments/assets/c5fe4268-76d5-4ca2-ae13-3589af7c9d58)
+![donorsummary_table.jpg](screenshots/donorsummary_table.jpg)
 
 </details>
 
