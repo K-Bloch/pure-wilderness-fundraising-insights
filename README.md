@@ -138,7 +138,7 @@ Here, I focused on a comparison between 2023 and 2024, along with insights into 
 **Retention and Lifetime Value**  
 This part examines which acquisition channels attract donors who are more likely to remain engaged. I also included additional metrics, such as lifespan and lifetime value, to provide a comprehensive overview of the situation.
 
-## Summary of Insights
+## Executive Summary
 
 ### Acquisition Overview
 
@@ -158,12 +158,12 @@ Most channels struggled, with only In-Person Events experiencing a modest rise i
 
 ---
 
-## Retention and Lifetime Value Analysis
+### Retention and Lifetime Value Analysis
 
-### 2024 Highlights
+#### 2024 Highlights
 Online Events and Partnerships drove strong donor retention. In contrast, contributors from In-Person Events had high dropout rates despite forming a small group. Social Media rebounded from a 2023 decline, and retention rates for Online Events, Partnerships, and Direct Mail remain consistent.
 
-### Metrics Summary
+#### Metrics Summary
 - Overall retention rate slightly decreased by **0.6%**—a stable result.
 - Average donor lifespan: **2.8 years**—reasonable for a young organization.
 - Donor Lifetime Value is solid but has room to grow.
