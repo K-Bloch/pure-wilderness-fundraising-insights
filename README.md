@@ -171,7 +171,7 @@ Most channels struggled, with only In-Person Events experiencing a modest rise i
 ### Recommendations
 - Direct Mail’s initial success suggests it could be an untapped niche as others focus on digital channels.
 - You may consider expanding outreach in underserved regions like **świętokrzyskie, opolskie**, and **lubuskie** using Direct Mail.
-- Social Media’s steady performance indicates its ongoing value, while Online Events should be pursued cautiously, as their 2020 impact may have been pandemic-driven.
+- Social Media’s consistent performance highlights its ongoing value, while Online Events should be approached with caution. The surge in 2020 may have been pandemic-driven, and there is still a lingering reluctance among the general public toward online meetings due to screen fatigue and extensive remote work arrangements during lockdowns and now.
 - In-Person Events, while costly, could be considered for their unique engagement potential, given they are organized in carefully selected location.
 - Average donor tenure: **2 years and 10 months**—reasonable for a young organization.
 
