@@ -2,9 +2,12 @@
 
 ## Project Screenshots
 
-<br>![01-executive-summary.png](screenshots/01-executive-summary.png)
+
 ![02-historical-acquisition-efforts.png](screenshots/02-historical-acquisition-efforts.png)
 ![03-2024-performance.png](screenshots/03-2024-performance.png)
+
+Explore the interactive [Power BI dashboard](https://app.powerbi.com/links/-2lJvzfD23?ctid=911d494e-d02e-45a9-8035-162a18796894&pbi_source=linkShare) here.
+<br>If you have any trouble displaying it, refer to the above screenshots or the attached pdf: [Pure-Wilderness-fundraising-insights.pdf](pbi-exports/Pure-Wilderness-fundraising-insights.pdf)
 
 ## Data Sources & Tools
 - **Data**:
