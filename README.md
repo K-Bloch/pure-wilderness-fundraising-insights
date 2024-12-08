@@ -2,7 +2,7 @@
 
 ## Project Screenshots
 
-
+<br>![01-executive-summary.png](screenshots/01-executive-summary.png)
 ![02-historical-acquisition-efforts.png](screenshots/02-historical-acquisition-efforts.png)
 ![03-2024-performance.png](screenshots/03-2024-performance.png)
 
