@@ -2,14 +2,14 @@
 
 ## Project Screenshots
 
-<br>![01_acquisition_overview.jpg](screenshots/01_acquisition_overview.jpg)
-![02_detailed_trends.jpg](screenshots/02_detailed_trends.jpg)
-![03_retention_and_lifetime_value.jpg](screenshots/03_retention_and_lifetime_value.jpg)
+<br>![01-executive-summary.png](screenshots/01-executive-summary.png)
+![02-historical-acquisition-efforts.png](screenshots/02-historical-acquisition-efforts.png)
+![03-2024-performance.png](screenshots/03-2024-performance.png)
 
 ## Data Sources & Tools
 - **Data**:
-    - donor_data was generated using my [custom Python script.](https://github.com/K-Bloch/data-generator)
-    - list of cities was extracted from this stat website: [polskawliczbach.pl](https://www.polskawliczbach.pl/Miasta)
+    - I generated donor_data using my [custom Python script.](https://github.com/K-Bloch/data-generator)
+    - I extracted the list of cities from this stat website: [polskawliczbach.pl](https://www.polskawliczbach.pl/Miasta)
 - **SQL tool**: MySQL Workbench 8.0 CE
 - **Analytics and Visualization tool**: Power BI
 
@@ -71,7 +71,7 @@ Finally, I calculated the year-by-year difference in new donor counts, again to 
 <details>
   <summary>📈 Power BI Steps</summary>    
 
-  <br>I imported the data into Power BI and created additional metrics, tables, and visuals. Below are some selected examples of important calculations; not all metrics or code pieces are described.
+  <br>I imported the data into Power BI and created additional metrics, tables, and visuals. Below is a sample of calculations and measures that I prepared:
 
 - **Donor Summary Table**  
   The date of the first donation was crucial for comparing against acquisition channels to assess performance. I created the DonorSummary table to extract the first donation date along with acquisition channel information, which was essential to understanding how each donor was acquired.
@@ -95,12 +95,29 @@ Donor_Status = IF(ROUND(DATEDIFF(DonorSummary[Last_Donation], DATE(2024,12,31), 
 ```
 
 - **Donor Lifespan in Years**  
-  DonorLifespanInYears was calculated using both active and churned donor data. The logic is that if a customer is active, the formula calculates their lifespan as years passed since the first donation to the end of 2024. If churned, the lifespan is the difference between the first and last donation.
+  Using this calculated column, I find out the average lifespan of churned donors by determining the time between their first and last donations.
 
 ```plaintext
-DonorLifespanInYears = IF(DonorSummary[Donor_Status] = "Active", 
-    DATEDIFF(DonorSummary[First_Donation], DATE(2024,12,31), YEAR), 
-    DATEDIFF(DonorSummary[First_Donation], DonorSummary[Last_Donation], YEAR))
+DonorLifespanInYears = 
+AVERAGEX(
+    FILTER(
+        DonorSummary,
+        DonorSummary[Donor_Status] = "Churned"
+    ),
+    DATEDIFF(DonorSummary[First_Donation], DonorSummary[Last_Donation], YEAR)
+)
+```
+
+- **Donor Tenure in Years**  
+  I calculated DonorTenureInYears as an alternative to Lifespan. For active donors, I measure the time from their first donation to the end of 2024. For churned donors, I calculate the difference between their first and last donation. This approach provides a more balanced view of donor engagement.
+
+```plaintext
+DonorTenureInYears =
+IF(
+    DonorSummary[Donor_Status] = "Active",
+    DATEDIFF(DonorSummary[First_Donation], DATE(2024,12,31), YEAR),
+    DATEDIFF(DonorSummary[First_Donation], DonorSummary[Last_Donation], YEAR)
+)
 ```
 
 - **Donation Frequency in Days**  
@@ -127,20 +144,20 @@ DonationFrequencyInDays = ROUND(DATEDIFF(DonorSummary[First_Donation], DonorSumm
 - Acquisition Channel  
 - Donor Type  
 
-I divided my visuals into three dashboards.
+I placed my visuals over three dashboards.
 
-**Acquisition Overview**  
-This section illustrates how the foundation's strong initial efforts at donor acquisition dwindled over the five years of operation.
+**Executive Summary**  
+This main dashboard provides an overview of 2024 fundraising performance, including total funds raised and key averages like Donor Lifespan (for how long a donor contributes before churning). From this dashboard, users can navigate to two detailed dashboards (described below) for more in-depth insights into historical data and 2024 performance.
 
-**Detailed Trends**  
-Here, I focused on a comparison between 2023 and 2024, along with insights into donors' geographical locations.
+**New Donors: Historical Acquisition Efforts**  
+This tab displays five years of donor acquisition data through graphs and tables. Users can view a visual and numerical breakdown of each channel’s performance. The interactive map lets users filter by year and explore regions where donors are coming from, accompanied by a table listing high-performing and underperforming areas.
 
-**Retention and Lifetime Value**  
-This part examines which acquisition channels attract donors who are more likely to remain engaged. I also included additional metrics, such as lifespan and lifetime value, to provide a comprehensive overview of the situation.
+**2024 Performance: Details**  
+This tab focuses on 2024 performance compared to 2023. It features a detailed version of the column chart from the previous tab, showcasing new donor acquisition by channel. Smaller tables display key metrics, including donor numbers, contributions, retention rates (general and by acquisition channel), lifetime value, and an active donor profile.
 
 ## Executive Summary
 
-### Acquisition Overview
+### New Donors: Historical Acquisition Efforts
 
 #### 2020
 Initial efforts effectively converted individuals through partnerships and direct mail, bringing in new donors. Online events were especially impactful, overshadowing social media.
@@ -149,30 +166,30 @@ Initial efforts effectively converted individuals through partnerships and direc
 A decline hit most channels except Social Media, which saw a remarkable **216%** rise from 2020.
 
 #### 2022-2024
-Most channels struggled, with only In-Person Events experiencing a modest rise in 2022. Social Media consistently outperformed others.
+Most channels struggled, with only In-Person Events experiencing a modest rise in 2022. Social Media consistently outperformed other channels.
 
 ### Recommendations
-- Direct Mail’s initial success suggests it could be an untapped niche as others focus on digital channels. 
+- Direct Mail’s initial success suggests it could be an untapped niche as others focus on digital channels.
+- You may consider expanding outreach in underserved regions like **świętokrzyskie, opolskie**, and **lubuskie** using Direct Mail.
 - Social Media’s steady performance indicates its ongoing value, while Online Events should be pursued cautiously, as their 2020 impact may have been pandemic-driven.
-- In-Person Events, while costly, could be considered for their unique engagement potential.
+- In-Person Events, while costly, could be considered for their unique engagement potential, given they are organized in carefully selected location.
+- Average donor tenure: **2 years and 10 months**—reasonable for a young organization.
 
 ---
 
-### Retention and Lifetime Value Analysis
+### 2024 Performance: Details
 
 #### 2024 Highlights
 Online Events and Partnerships drove strong donor retention. In contrast, contributors from In-Person Events had high dropout rates despite forming a small group. Social Media rebounded from a 2023 decline, and retention rates for Online Events, Partnerships, and Direct Mail remain consistent.
 
 #### Metrics Summary
 - Overall retention rate slightly decreased by **0.6%**—a stable result.
-- Average donor lifespan: **2.8 years**—reasonable for a young organization.
-- Donor Lifetime Value is solid but has room to grow.
+- Donor Lifetime Value is solid at 9174 zł (averaged over Organization and Individual donors) but has room to grow.
 
 ### Key Insights
-The average donor age is high (**52**), with low engagement at six donations or two per year.
+The average donor age is high (**52**), with low engagement - they donate only 6 times in their lifespan.
 
 ### Recommendations
-- Expand outreach in underserved regions like **świętokrzyskie, opolskie**, and **lubuskie** using Direct Mail.
 - Design campaigns targeting young adults, focusing on Social Media to attract a younger donor base.
 - Maintain strong relationships with partners and organizations as they are valuable contributors; consider sending occasional achievement highlights to encourage more frequent donations.
 
